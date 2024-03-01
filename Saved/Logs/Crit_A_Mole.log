@@ -12877,3 +12877,277 @@ Script call stack:
 [2024.03.01-00.49.23:824][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.03.01-00.49.23:828][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2024.03.01-00.49.23:854][939]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.01-00.50.38:619][791]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.01-00.50.38:625][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-00.50.38:625][791]PIE: New page: PIE session: Setup (Feb 29, 2024, 8:50:38 AM)
+[2024.03.01-00.50.38:626][791]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Setup
+[2024.03.01-00.50.38:626][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001082s)
+[2024.03.01-00.50.38:627][791]LogAIModule: Creating AISystem for world Setup
+[2024.03.01-00.50.38:627][791]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2024.03.01-00.50.38:627][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Setup.Setup to /Game/Level/UEDPIE_0_Setup.Setup (0.002089s)
+[2024.03.01-00.50.38:657][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.01-00.50.38:660][791]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.01-00.50.38:661][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-00.50.38:661][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-00.50.38:661][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-00.50.38:661][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-00.50.38:661][791]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.01-00.50.38:667][791]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.01-00.50.38:667][791]LogAudioMixer: Display: 1: FrontRight
+[2024.03.01-00.50.38:676][791]LogAudioMixer: Display: Using Audio Device Speakers (JBL Go 3)
+[2024.03.01-00.50.38:676][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-00.50.38:676][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-00.50.38:676][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-00.50.38:677][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.01-00.50.38:677][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.01-00.50.38:677][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.01-00.50.38:678][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.01-00.50.38:678][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.01-00.50.38:678][791]LogInit: FAudioDevice initialized.
+[2024.03.01-00.50.38:678][791]LogAudio: Display: Audio Device (ID: 22) registered with world 'Setup'.
+[2024.03.01-00.50.38:693][791]LogLoad: Game class is 'GM_Base_C'
+[2024.03.01-00.50.38:693][791]LogWorld: Bringing World /Game/Level/UEDPIE_0_Setup.Setup up for play (max tick rate 0) at 2024.02.29-16.50.38
+[2024.03.01-00.50.38:694][791]LogWorld: Bringing up level for play took: 0.000358
+[2024.03.01-00.50.38:694][791]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2024.03.01-00.50.38:696][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:699][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:702][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:705][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:708][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:711][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:714][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:717][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:719][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:723][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:726][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:729][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:731][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:734][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:736][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:739][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:742][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:745][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:748][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:750][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:754][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:756][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:760][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:763][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:766][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:768][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:771][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:774][791]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.50.38:777][791]PIE: Server logged in
+[2024.03.01-00.50.38:778][791]PIE: Play in editor total start time 0.154 seconds.
+[2024.03.01-00.50.40:620][955]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.40:620][955]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-00.50.42:620][167]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.42:620][167]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-00.50.44:627][393]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.44:627][393]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][1]
+[2024.03.01-00.50.46:625][591]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.46:625][591]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-00.50.48:630][784]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.48:630][784]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-00.50.50:628][975]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.50:628][975]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-00.50.52:627][180]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.52:627][180]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-00.50.54:627][401]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.54:629][401]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-00.50.56:629][606]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.56:629][606]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-00.50.58:624][797]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.50.58:624][797]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-00.51.00:627][992]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.00:629][992]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-00.51.02:622][208]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.02:623][208]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][1]
+[2024.03.01-00.51.04:627][422]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.04:628][422]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-00.51.05:659][526]LogBlueprintUserMessages: [BP_Enemy_C_12] im dead 
+[2024.03.01-00.51.06:629][619]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.06:629][619]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-00.51.06:925][648]LogBlueprintUserMessages: [BP_Enemy_C_4] im dead 
+[2024.03.01-00.51.07:633][714]LogBlueprintUserMessages: [BP_Enemy_C_5] im dead 
+[2024.03.01-00.51.08:082][754]LogBlueprintUserMessages: [BP_Enemy_C_13] im dead 
+[2024.03.01-00.51.08:553][789]LogBlueprintUserMessages: [BP_Enemy_C_3] im dead 
+[2024.03.01-00.51.08:633][795]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.08:633][795]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-00.51.08:932][815]LogBlueprintUserMessages: [BP_Enemy_C_10] im dead 
+[2024.03.01-00.51.09:534][867]LogBlueprintUserMessages: [BP_Enemy_C_0] im dead 
+[2024.03.01-00.51.09:814][888]LogBlueprintUserMessages: [BP_Enemy_C_1] im dead 
+[2024.03.01-00.51.10:176][920]LogBlueprintUserMessages: [BP_Enemy_C_11] im dead 
+[2024.03.01-00.51.10:616][963]LogBlueprintUserMessages: [BP_Enemy_C_7] im dead 
+[2024.03.01-00.51.10:632][964]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.10:632][964]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-00.51.10:965][997]LogBlueprintUserMessages: [BP_Enemy_C_8] im dead 
+[2024.03.01-00.51.11:272][ 29]LogBlueprintUserMessages: [BP_Enemy_C_6] im dead 
+[2024.03.01-00.51.11:715][ 74]LogBlueprintUserMessages: [BP_Enemy_C_15] im dead 
+[2024.03.01-00.51.12:150][118]LogBlueprintUserMessages: [BP_Enemy_C_2] im dead 
+[2024.03.01-00.51.12:442][148]LogBlueprintUserMessages: [BP_Enemy_C_14] im dead 
+[2024.03.01-00.51.12:628][167]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.12:628][167]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-00.51.12:728][178]LogBlueprintUserMessages: [BP_Enemy_C_9] im dead 
+[2024.03.01-00.51.13:100][219]LogBlueprintUserMessages: [BP_Enemy_C_16] im dead 
+[2024.03.01-00.51.14:624][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.14:624][364]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-00.51.15:887][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-00.51.15:887][485]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Setup
+[2024.03.01-00.51.15:887][485]LogWorld: UWorld::CleanupWorld for Setup, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.51.15:895][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.51.15:905][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-00.51.15:918][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.51.15:941][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-00.51.15:941][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-00.51.15:942][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-00.51.15:953][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.03.01-00.51.15:982][486]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.01-00.51.41:580][ 18]BlueprintLog: New page: Compile BP_Player
+[2024.03.01-00.51.41:634][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.03.01-00.51.48:083][593]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 3.14ms
+[2024.03.01-00.51.48:091][593]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_Player9EFB4BDD4DEBA0CC7DBFCE96276743CB.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Player/BP_Player.uasset'
+[2024.03.01-00.51.48:106][593]AssetCheck: New page: Asset Save: BP_Player
+[2024.03.01-00.51.48:106][593]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Player/BP_Player.BP_Player
+[2024.03.01-00.51.48:834][652]BlueprintLog: New page: Compile BP_Player
+[2024.03.01-00.51.48:880][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.03.01-00.51.49:428][695]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.01-00.51.49:434][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-00.51.49:434][695]PIE: New page: PIE session: Setup (Feb 29, 2024, 8:51:49 AM)
+[2024.03.01-00.51.49:435][695]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Setup
+[2024.03.01-00.51.49:437][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001815s)
+[2024.03.01-00.51.49:438][695]LogAIModule: Creating AISystem for world Setup
+[2024.03.01-00.51.49:438][695]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2024.03.01-00.51.49:438][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Setup.Setup to /Game/Level/UEDPIE_0_Setup.Setup (0.003358s)
+[2024.03.01-00.51.49:463][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.03.01-00.51.49:464][695]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.01-00.51.49:464][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-00.51.49:464][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-00.51.49:464][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-00.51.49:464][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-00.51.49:464][695]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.01-00.51.49:471][695]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.01-00.51.49:472][695]LogAudioMixer: Display: 1: FrontRight
+[2024.03.01-00.51.49:481][695]LogAudioMixer: Display: Using Audio Device Speakers (JBL Go 3)
+[2024.03.01-00.51.49:482][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-00.51.49:482][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-00.51.49:482][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-00.51.49:482][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.01-00.51.49:482][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.01-00.51.49:482][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.01-00.51.49:483][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.01-00.51.49:483][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.01-00.51.49:483][695]LogInit: FAudioDevice initialized.
+[2024.03.01-00.51.49:483][695]LogAudio: Display: Audio Device (ID: 23) registered with world 'Setup'.
+[2024.03.01-00.51.49:496][695]LogLoad: Game class is 'GM_Base_C'
+[2024.03.01-00.51.49:497][695]LogWorld: Bringing World /Game/Level/UEDPIE_0_Setup.Setup up for play (max tick rate 0) at 2024.02.29-16.51.49
+[2024.03.01-00.51.49:497][695]LogWorld: Bringing up level for play took: 0.000309
+[2024.03.01-00.51.49:497][695]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2024.03.01-00.51.49:500][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:503][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:505][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:507][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:510][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:512][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:515][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:518][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:521][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:523][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:526][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:529][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:531][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:534][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:536][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:539][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:541][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:544][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:547][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:550][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:552][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:557][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:560][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:564][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:567][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:570][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:573][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:576][695]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-00.51.49:581][695]PIE: Server logged in
+[2024.03.01-00.51.49:582][695]PIE: Play in editor total start time 0.149 seconds.
+[2024.03.01-00.51.50:436][766]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.50:436][766]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-00.51.51:437][876]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.51:437][876]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-00.51.52:433][989]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.52:433][989]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][3]
+[2024.03.01-00.51.53:429][107]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.53:429][107]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-00.51.54:435][225]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.54:435][225]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-00.51.55:431][342]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.55:431][342]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-00.51.55:854][388]LogBlueprintUserMessages: [BP_Enemy_C_4] im dead 
+[2024.03.01-00.51.56:439][450]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.56:439][450]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-00.51.56:756][482]LogBlueprintUserMessages: [BP_Enemy_C_3] im dead 
+[2024.03.01-00.51.57:434][549]LogBlueprintUserMessages: [BP_Enemy_C_5] im dead 
+[2024.03.01-00.51.57:436][549]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.57:436][549]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-00.51.58:432][649]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.58:432][649]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-00.51.58:461][652]LogBlueprintUserMessages: [BP_Enemy_C_0] im dead 
+[2024.03.01-00.51.59:261][733]LogBlueprintUserMessages: [BP_Enemy_C_1] im dead 
+[2024.03.01-00.51.59:430][750]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.51.59:430][750]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-00.51.59:761][782]LogBlueprintUserMessages: [BP_Enemy_C_8] im dead 
+[2024.03.01-00.52.00:182][822]LogBlueprintUserMessages: [BP_Enemy_C_2] im dead 
+[2024.03.01-00.52.00:439][847]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.00:439][847]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-00.52.00:590][863]LogBlueprintUserMessages: [BP_Enemy_C_6] im dead 
+[2024.03.01-00.52.00:892][897]LogBlueprintUserMessages: [BP_Enemy_C_7] im dead 
+[2024.03.01-00.52.01:185][929]LogBlueprintUserMessages: [BP_Enemy_C_9] im dead 
+[2024.03.01-00.52.01:431][957]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.01:431][957]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-00.52.01:994][ 20]LogBlueprintUserMessages: [BP_Enemy_C_10] im dead 
+[2024.03.01-00.52.02:430][ 71]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.02:430][ 71]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-00.52.02:591][ 90]LogBlueprintUserMessages: [BP_Enemy_C_11] im dead 
+[2024.03.01-00.52.02:908][126]LogBlueprintUserMessages: [BP_Enemy_C_12] im dead 
+[2024.03.01-00.52.03:433][188]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.03:433][188]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-00.52.04:435][305]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.04:435][305]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-00.52.05:432][416]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.05:432][416]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-00.52.06:434][505]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-00.52.06:435][505]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-00.52.07:527][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-00.52.07:527][601]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Setup
+[2024.03.01-00.52.07:528][601]LogWorld: UWorld::CleanupWorld for Setup, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.52.07:535][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.52.07:546][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-00.52.07:559][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.52.07:584][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-00.52.07:584][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-00.52.07:585][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-00.52.07:587][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-00.52.07:592][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.01-00.52.07:627][602]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.01-00.57.47:001][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.03.01-00.57.47:008][840]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 3.35ms
+[2024.03.01-00.57.47:012][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Setup_Auto3232967954A886615BC3231AE8067B8C9.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Autosaves/Game/Level/Setup_Auto3.umap'
+[2024.03.01-00.57.47:014][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Setup' took 0.041
+[2024.03.01-00.57.47:014][840]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
