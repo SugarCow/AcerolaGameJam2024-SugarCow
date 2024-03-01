@@ -4470,3 +4470,1423 @@ Script call stack:
 [2024.03.01-05.30.02:489][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.03.01-05.30.02:496][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
 [2024.03.01-05.30.02:577][870]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.03.01-05.31.39:870][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.03.01-05.31.39:877][582]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.67ms
+[2024.03.01-05.31.39:880][582]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Setup_Auto6CA78196549B12F49B6996EB02240C726.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Autosaves/Game/Level/Setup_Auto6.umap'
+[2024.03.01-05.31.39:881][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Setup' took 0.048
+[2024.03.01-05.31.39:881][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2024.03.01-05.31.39:881][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Enemy/BP_Enemy] ([4] browsable assets)...
+[2024.03.01-05.31.39:882][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Enemy/BP_Enemy]
+[2024.03.01-05.31.39:908][582]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_Enemy_Auto6D127C6D74A143E78FC287D84E06FDC28.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Autosaves/Game/Blueprint/Enemy/BP_Enemy_Auto6.uasset'
+[2024.03.01-05.31.39:909][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Player/BP_Player] ([2] browsable assets)...
+[2024.03.01-05.31.39:909][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Player/BP_Player]
+[2024.03.01-05.31.39:927][582]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_Player_Auto66A058AC94A30B0FF290441B9D028473C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Autosaves/Game/Blueprint/Player/BP_Player_Auto6.uasset'
+[2024.03.01-05.31.39:928][582]LogFileHelpers: Auto-saving content packages took 0.046
+[2024.03.01-05.31.40:154][583]LogAutoSizeComments: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/BB43883D49E2763C5836B49B6F365616.json took   0.55ms
+[2024.03.01-05.32.15:403][688]LogSlate: Window 'WBP_UI' being destroyed
+[2024.03.01-05.32.15:410][688]LogSlate: Window 'WBP_UI' being destroyed
+[2024.03.01-05.32.15:415][688]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:415][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:523][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-05.32.15:523][688]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:523][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:614][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-05.32.15:614][688]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:614][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:704][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-05.32.15:704][688]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:704][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:794][688]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:794][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:804][688]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.32.15:804][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.32.15:871][688]LogBlueprintAssist: Asset closed BP_SpawnerGrid
+[2024.03.01-05.32.15:871][688]LogBlueprintAssist: Asset closed BP_MoleSpawner
+[2024.03.01-05.32.15:871][688]LogBlueprintAssist: Asset closed BP_Enemy
+[2024.03.01-05.32.15:871][688]LogBlueprintAssist: Asset closed BP_Player
+[2024.03.01-05.32.15:871][688]LogBlueprintAssist: Asset closed WBP_UI
+[2024.03.01-05.32.28:960][956]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.01-05.32.28:965][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-05.32.28:965][956]PIE: New page: PIE session: Setup (Feb 29, 2024, 1:32:28 PM)
+[2024.03.01-05.32.28:965][956]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Setup
+[2024.03.01-05.32.28:966][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000965s)
+[2024.03.01-05.32.28:968][956]LogAIModule: Creating AISystem for world Setup
+[2024.03.01-05.32.28:968][956]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2024.03.01-05.32.28:968][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Setup.Setup to /Game/Level/UEDPIE_0_Setup.Setup (0.002052s)
+[2024.03.01-05.32.29:065][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.03.01-05.32.29:069][956]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-05.32.29:069][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.01-05.32.29:069][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-05.32.29:070][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-05.32.29:070][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-05.32.29:070][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-05.32.29:070][956]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.01-05.32.29:076][956]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.01-05.32.29:076][956]LogAudioMixer: Display: 1: FrontRight
+[2024.03.01-05.32.29:085][956]LogAudioMixer: Display: Using Audio Device Headphones (LE_ATH-M50xBT2)
+[2024.03.01-05.32.29:085][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-05.32.29:085][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-05.32.29:085][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-05.32.29:086][956]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.01-05.32.29:086][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.01-05.32.29:086][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.01-05.32.29:087][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.01-05.32.29:087][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.01-05.32.29:087][956]LogInit: FAudioDevice initialized.
+[2024.03.01-05.32.29:087][956]LogAudio: Display: Audio Device (ID: 25) registered with world 'Setup'.
+[2024.03.01-05.32.29:087][956]PIE: Warning: UGameViewportClient::AddCursor: Invalid class specified.
+[2024.03.01-05.32.29:097][956]LogLoad: Game class is 'GM_Base_C'
+[2024.03.01-05.32.29:097][956]LogWorld: Bringing World /Game/Level/UEDPIE_0_Setup.Setup up for play (max tick rate 0) at 2024.02.29-21.32.29
+[2024.03.01-05.32.29:097][956]LogWorld: Bringing up level for play took: 0.000328
+[2024.03.01-05.32.29:097][956]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.03.01-05.32.29:100][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:103][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:106][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:109][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:111][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:114][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:116][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:119][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:121][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:123][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:125][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:128][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:131][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:133][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:136][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:141][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:144][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:147][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:151][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:155][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:159][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:163][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:166][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:170][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:174][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:177][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:181][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:183][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-05.32.29:189][956]PIE: Server logged in
+[2024.03.01-05.32.29:189][956]PIE: Play in editor total start time 0.224 seconds.
+[2024.03.01-05.32.30:019][ 32]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.30:019][ 32]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-05.32.30:834][130]LogBlueprintUserMessages: [BP_Enemy_C_0] im dead 
+[2024.03.01-05.32.30:967][146]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.30:967][146]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-05.32.31:550][216]LogBlueprintUserMessages: [BP_Enemy_C_1] im dead 
+[2024.03.01-05.32.31:967][266]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.31:967][266]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-05.32.32:525][333]LogBlueprintUserMessages: [BP_Enemy_C_2] im dead 
+[2024.03.01-05.32.32:968][386]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.32:968][386]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-05.32.33:550][456]LogBlueprintUserMessages: [BP_Enemy_C_3] im dead 
+[2024.03.01-05.32.33:969][506]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.33:969][506]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-05.32.34:735][598]LogBlueprintUserMessages: [BP_Enemy_C_4] im dead 
+[2024.03.01-05.32.34:969][626]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.34:969][626]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-05.32.35:702][714]LogBlueprintUserMessages: [BP_Enemy_C_5] im dead 
+[2024.03.01-05.32.35:969][746]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.35:969][746]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][3]
+[2024.03.01-05.32.36:578][819]LogBlueprintUserMessages: [BP_Enemy_C_6] im dead 
+[2024.03.01-05.32.36:962][865]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.36:962][865]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-05.32.37:504][930]LogBlueprintUserMessages: [BP_Enemy_C_7] im dead 
+[2024.03.01-05.32.37:963][985]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.37:963][985]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-05.32.38:705][ 74]LogBlueprintUserMessages: [BP_Enemy_C_8] im dead 
+[2024.03.01-05.32.38:964][105]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.38:964][105]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-05.32.39:980][227]LogBlueprintUserMessages: [BP_Enemy_C_9] im dead 
+[2024.03.01-05.32.40:048][235]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.40:048][235]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-05.32.40:806][326]LogBlueprintUserMessages: [BP_Enemy_C_10] im dead 
+[2024.03.01-05.32.41:048][355]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.41:048][355]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-05.32.42:047][475]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.42:048][475]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-05.32.42:173][490]LogBlueprintUserMessages: [BP_Enemy_C_11] im dead 
+[2024.03.01-05.32.42:814][567]LogBlueprintUserMessages: [BP_Enemy_C_12] im dead 
+[2024.03.01-05.32.43:048][595]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.43:048][595]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-05.32.43:747][679]LogBlueprintUserMessages: [BP_Enemy_C_13] im dead 
+[2024.03.01-05.32.44:049][715]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.44:049][715]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-05.32.44:572][778]LogBlueprintUserMessages: [BP_Enemy_C_14] im dead 
+[2024.03.01-05.32.45:049][835]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.45:049][835]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-05.32.46:049][955]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.46:049][955]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-05.32.46:166][969]LogBlueprintUserMessages: [BP_Enemy_C_15] im dead 
+[2024.03.01-05.32.46:875][ 54]LogBlueprintUserMessages: [BP_Enemy_C_16] im dead 
+[2024.03.01-05.32.47:050][ 75]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.47:050][ 75]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-05.32.47:950][183]LogBlueprintUserMessages: [BP_Enemy_C_17] im dead 
+[2024.03.01-05.32.48:051][195]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.48:051][195]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-05.32.48:633][265]LogBlueprintUserMessages: [BP_Enemy_C_18] im dead 
+[2024.03.01-05.32.49:051][315]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.49:051][315]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-05.32.50:052][435]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.50:052][435]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-05.32.50:309][466]LogBlueprintUserMessages: [BP_Enemy_C_19] im dead 
+[2024.03.01-05.32.50:858][532]LogBlueprintUserMessages: [BP_Enemy_C_20] im dead 
+[2024.03.01-05.32.51:050][555]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.51:051][555]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-05.32.52:051][675]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.52:051][675]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][3]
+[2024.03.01-05.32.52:209][694]LogBlueprintUserMessages: [BP_Enemy_C_21] im dead 
+[2024.03.01-05.32.52:766][761]LogBlueprintUserMessages: [BP_Enemy_C_22] im dead 
+[2024.03.01-05.32.53:051][795]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.53:051][795]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-05.32.53:625][864]LogBlueprintUserMessages: [BP_Enemy_C_23] im dead 
+[2024.03.01-05.32.54:051][915]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-05.32.54:051][915]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][1]
+[2024.03.01-05.32.54:484][967]LogBlueprintUserMessages: [BP_Enemy_C_24] im dead 
+[2024.03.01-06.21.53:813][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.21.53:813][936]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Setup
+[2024.03.01-06.21.53:813][936]LogWorld: UWorld::CleanupWorld for Setup, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.21.53:820][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.21.53:830][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-06.21.53:834][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.21.53:851][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.21.53:852][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.21.53:852][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.21.53:861][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2024.03.01-06.21.53:909][937]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.01-06.21.58:347][454]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.01-06.21.58:354][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-06.21.58:354][454]PIE: New page: PIE session: Setup (Feb 29, 2024, 2:21:58 PM)
+[2024.03.01-06.21.58:382][454]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Setup
+[2024.03.01-06.21.58:383][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001091s)
+[2024.03.01-06.21.58:383][454]LogAIModule: Creating AISystem for world Setup
+[2024.03.01-06.21.58:384][454]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2024.03.01-06.21.58:384][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Setup.Setup to /Game/Level/UEDPIE_0_Setup.Setup (0.002057s)
+[2024.03.01-06.21.58:398][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.03.01-06.21.58:400][454]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.01-06.21.58:400][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-06.21.58:400][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-06.21.58:400][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-06.21.58:400][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-06.21.58:400][454]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.01-06.21.58:405][454]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.01-06.21.58:405][454]LogAudioMixer: Display: 1: FrontRight
+[2024.03.01-06.21.58:413][454]LogAudioMixer: Display: Using Audio Device Headphones (LE_ATH-M50xBT2)
+[2024.03.01-06.21.58:413][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-06.21.58:414][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-06.21.58:414][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-06.21.58:414][454]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.01-06.21.58:414][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.01-06.21.58:414][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.01-06.21.58:415][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.01-06.21.58:415][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.01-06.21.58:415][454]LogInit: FAudioDevice initialized.
+[2024.03.01-06.21.58:415][454]LogAudio: Display: Audio Device (ID: 26) registered with world 'Setup'.
+[2024.03.01-06.21.58:415][454]PIE: Warning: UGameViewportClient::AddCursor: Invalid class specified.
+[2024.03.01-06.21.58:424][454]LogLoad: Game class is 'GM_Base_C'
+[2024.03.01-06.21.58:425][454]LogWorld: Bringing World /Game/Level/UEDPIE_0_Setup.Setup up for play (max tick rate 0) at 2024.02.29-22.21.58
+[2024.03.01-06.21.58:425][454]LogWorld: Bringing up level for play took: 0.000280
+[2024.03.01-06.21.58:425][454]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.03.01-06.21.58:427][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:429][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:432][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:434][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:437][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:439][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:442][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:445][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:447][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:449][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:452][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:454][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:457][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:460][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:463][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:465][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:468][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:471][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:473][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:476][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:479][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:482][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:484][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:486][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:490][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:492][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:495][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:498][454]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.21.58:502][454]PIE: Server logged in
+[2024.03.01-06.21.58:503][454]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.01-06.21.59:352][553]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.21.59:353][553]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.22.00:354][673]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.00:354][673]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][1]
+[2024.03.01-06.22.00:720][717]LogBlueprintUserMessages: [BP_Enemy_C_0] im dead 
+[2024.03.01-06.22.01:349][792]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.01:349][792]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-06.22.01:681][832]LogBlueprintUserMessages: [BP_Enemy_C_1] im dead 
+[2024.03.01-06.22.02:351][912]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.02:351][912]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-06.22.02:383][916]LogBlueprintUserMessages: [BP_Enemy_C_2] im dead 
+[2024.03.01-06.22.03:076][999]LogBlueprintUserMessages: [BP_Enemy_C_3] im dead 
+[2024.03.01-06.22.03:353][ 32]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.03:353][ 32]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-06.22.04:327][149]LogBlueprintUserMessages: [BP_Enemy_C_4] im dead 
+[2024.03.01-06.22.04:353][152]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.04:353][152]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-06.22.05:143][247]LogBlueprintUserMessages: [BP_Enemy_C_5] im dead 
+[2024.03.01-06.22.05:353][272]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.05:353][272]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-06.22.06:052][356]LogBlueprintUserMessages: [BP_Enemy_C_6] im dead 
+[2024.03.01-06.22.06:353][392]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.06:353][392]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-06.22.07:061][477]LogBlueprintUserMessages: [BP_Enemy_C_7] im dead 
+[2024.03.01-06.22.07:353][512]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.07:353][512]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.22.07:877][575]LogBlueprintUserMessages: [BP_Enemy_C_8] im dead 
+[2024.03.01-06.22.08:355][632]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.08:355][632]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-06.22.09:146][727]LogBlueprintUserMessages: [BP_Enemy_C_9] im dead 
+[2024.03.01-06.22.09:355][752]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.09:355][752]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-06.22.09:923][820]LogBlueprintUserMessages: [BP_Enemy_C_10] im dead 
+[2024.03.01-06.22.10:349][871]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.10:349][871]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-06.22.10:832][929]LogBlueprintUserMessages: [BP_Enemy_C_11] im dead 
+[2024.03.01-06.22.11:349][991]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.11:349][991]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-06.22.12:149][ 87]LogBlueprintUserMessages: [BP_Enemy_C_12] im dead 
+[2024.03.01-06.22.12:350][111]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.12:350][111]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-06.22.13:350][231]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.13:350][231]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.22.13:741][278]LogBlueprintUserMessages: [BP_Enemy_C_13] im dead 
+[2024.03.01-06.22.14:350][351]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.14:350][351]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-06.22.14:358][352]LogBlueprintUserMessages: [BP_Enemy_C_14] im dead 
+[2024.03.01-06.22.15:207][454]LogBlueprintUserMessages: [BP_Enemy_C_15] im dead 
+[2024.03.01-06.22.15:349][471]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.15:349][471]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.22.15:949][543]LogBlueprintUserMessages: [BP_Enemy_C_16] im dead 
+[2024.03.01-06.22.16:349][591]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.16:351][591]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-06.22.16:866][653]LogBlueprintUserMessages: [BP_Enemy_C_17] im dead 
+[2024.03.01-06.22.17:350][711]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.17:350][711]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-06.22.17:884][775]LogBlueprintUserMessages: [BP_Enemy_C_18] im dead 
+[2024.03.01-06.22.18:351][831]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.18:351][831]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-06.22.19:001][909]LogBlueprintUserMessages: [BP_Enemy_C_19] im dead 
+[2024.03.01-06.22.19:352][951]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.19:353][951]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.22.20:355][ 71]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.20:355][ 71]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-06.22.20:362][ 72]LogBlueprintUserMessages: [BP_Enemy_C_20] im dead 
+[2024.03.01-06.22.21:105][161]LogBlueprintUserMessages: [BP_Enemy_C_21] im dead 
+[2024.03.01-06.22.21:348][190]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.21:348][190]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.22.22:022][271]LogBlueprintUserMessages: [BP_Enemy_C_22] im dead 
+[2024.03.01-06.22.22:348][310]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.22:348][310]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-06.22.23:022][391]LogBlueprintUserMessages: [BP_Enemy_C_23] im dead 
+[2024.03.01-06.22.23:348][430]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.23:348][430]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-06.22.24:072][517]LogBlueprintUserMessages: [BP_Enemy_C_24] im dead 
+[2024.03.01-06.22.24:348][550]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.24:348][550]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-06.22.25:339][669]LogBlueprintUserMessages: [BP_Enemy_C_25] im dead 
+[2024.03.01-06.22.25:348][670]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.25:348][670]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-06.22.25:931][740]LogBlueprintUserMessages: [BP_Enemy_C_26] im dead 
+[2024.03.01-06.22.26:348][790]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.26:348][790]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-06.22.27:064][876]LogBlueprintUserMessages: [BP_Enemy_C_27] im dead 
+[2024.03.01-06.22.27:348][910]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.27:349][910]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-06.22.28:072][997]LogBlueprintUserMessages: [BP_Enemy_C_28] im dead 
+[2024.03.01-06.22.28:348][ 30]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.28:348][ 30]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-06.22.28:790][ 83]LogBlueprintUserMessages: [BP_Enemy_C_29] im dead 
+[2024.03.01-06.22.29:350][150]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.29:350][150]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-06.22.29:882][214]LogBlueprintUserMessages: [BP_Enemy_C_30] im dead 
+[2024.03.01-06.22.30:350][270]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.30:350][270]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-06.22.30:941][341]LogBlueprintUserMessages: [BP_Enemy_C_31] im dead 
+[2024.03.01-06.22.31:351][390]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.31:351][390]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-06.22.31:933][460]LogBlueprintUserMessages: [BP_Enemy_C_32] im dead 
+[2024.03.01-06.22.32:351][510]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.32:351][510]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.22.33:033][592]LogBlueprintUserMessages: [BP_Enemy_C_33] im dead 
+[2024.03.01-06.22.33:350][630]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.33:351][630]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-06.22.34:208][733]LogBlueprintUserMessages: [BP_Enemy_C_34] im dead 
+[2024.03.01-06.22.34:350][750]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.34:350][750]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-06.22.34:925][819]LogBlueprintUserMessages: [BP_Enemy_C_35] im dead 
+[2024.03.01-06.22.35:354][868]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.35:354][868]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-06.22.35:937][938]LogBlueprintUserMessages: [BP_Enemy_C_36] im dead 
+[2024.03.01-06.22.36:354][988]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.36:354][988]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][2]
+[2024.03.01-06.22.37:029][ 69]LogBlueprintUserMessages: [BP_Enemy_C_37] im dead 
+[2024.03.01-06.22.37:356][108]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.37:356][108]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-06.22.37:973][182]LogBlueprintUserMessages: [BP_Enemy_C_38] im dead 
+[2024.03.01-06.22.38:349][227]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.38:349][227]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-06.22.38:873][290]LogBlueprintUserMessages: [BP_Enemy_C_39] im dead 
+[2024.03.01-06.22.39:350][347]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.39:350][347]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.22.40:352][467]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.40:352][467]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-06.22.40:526][488]LogBlueprintUserMessages: [BP_Enemy_C_40] im dead 
+[2024.03.01-06.22.40:993][544]LogBlueprintUserMessages: [BP_Enemy_C_41] im dead 
+[2024.03.01-06.22.41:353][587]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.41:353][587]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-06.22.41:901][653]LogBlueprintUserMessages: [BP_Enemy_C_42] im dead 
+[2024.03.01-06.22.42:353][707]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.42:353][707]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.22.42:969][781]LogBlueprintUserMessages: [BP_Enemy_C_43] im dead 
+[2024.03.01-06.22.43:353][827]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.43:353][827]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-06.22.43:943][898]LogBlueprintUserMessages: [BP_Enemy_C_44] im dead 
+[2024.03.01-06.22.44:353][947]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.44:353][947]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][1]
+[2024.03.01-06.22.44:985][ 23]LogBlueprintUserMessages: [BP_Enemy_C_45] im dead 
+[2024.03.01-06.22.45:352][ 67]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.45:353][ 67]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-06.22.46:353][187]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.46:353][187]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][1]
+[2024.03.01-06.22.47:353][307]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.47:353][307]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.22.48:355][427]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.48:355][427]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-06.22.48:355][427]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.49:355][547]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.49:355][547]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-06.22.49:355][547]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.50:352][638]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.50:352][638]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][1]
+[2024.03.01-06.22.50:359][639]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.51:350][753]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.51:351][753]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][1]
+[2024.03.01-06.22.51:359][754]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.51:359][754]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.52:350][873]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.52:350][873]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][3]
+[2024.03.01-06.22.52:359][874]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.52:359][874]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.53:351][993]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.53:351][993]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][1]
+[2024.03.01-06.22.53:351][993]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.53:358][994]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.54:351][113]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.54:351][113]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][3]
+[2024.03.01-06.22.54:351][113]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.54:358][114]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.54:358][114]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.55:349][233]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.55:351][233]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][1]
+[2024.03.01-06.22.55:351][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.55:359][234]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.55:359][234]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.56:352][353]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.56:352][353]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-06.22.56:352][353]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.56:352][353]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.56:360][354]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.57:353][473]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.57:353][473]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-06.22.57:353][473]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.57:353][473]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.57:360][474]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.57:360][474]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.58:356][592]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.22.58:356][592]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][2]
+[2024.03.01-06.22.58:356][592]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.58:356][592]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.58:356][592]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.58:356][592]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.22.58:421][600]LogBlueprintUserMessages: [BP_Enemy_C_54] im dead 
+[2024.03.01-06.23.28:573][192]LogBlueprintUserMessages: [BP_Enemy_C_49] im dead 
+[2024.03.01-06.24.13:930][611]LogSlate: Window 'Message Log' being destroyed
+[2024.03.01-06.24.13:935][611]LogSlate: Window 'Message Log' being destroyed
+[2024.03.01-06.24.19:329][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Enemy/BP_SpawnerGrid.BP_SpawnerGrid
+[2024.03.01-06.24.19:368][244]LogBlueprintAssist: Asset opened BP_SpawnerGrid (BlueprintEditor)
+[2024.03.01-06.24.22:123][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.24.22:123][424]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Setup
+[2024.03.01-06.24.22:124][424]LogWorld: UWorld::CleanupWorld for Setup, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.24.22:133][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.24.22:141][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-06.24.22:145][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.24.22:165][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.24.22:165][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.24.22:166][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.24.22:172][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.03.01-06.24.22:253][425]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.03.01-06.24.28:571][967]BlueprintLog: New page: Compile BP_SpawnerGrid
+[2024.03.01-06.24.28:615][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.01-06.24.29:221][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.01-06.24.29:226][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-06.24.29:226][ 15]PIE: New page: PIE session: Setup (Feb 29, 2024, 2:24:29 PM)
+[2024.03.01-06.24.29:226][ 15]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Setup
+[2024.03.01-06.24.29:227][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000867s)
+[2024.03.01-06.24.29:228][ 15]LogAIModule: Creating AISystem for world Setup
+[2024.03.01-06.24.29:228][ 15]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2024.03.01-06.24.29:228][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Setup.Setup to /Game/Level/UEDPIE_0_Setup.Setup (0.001921s)
+[2024.03.01-06.24.29:246][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.03.01-06.24.29:246][ 15]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.03.01-06.24.29:246][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-06.24.29:246][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-06.24.29:246][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-06.24.29:246][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-06.24.29:246][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.01-06.24.29:247][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-06.24.29:247][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.01-06.24.29:247][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-06.24.29:247][ 15]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-06.24.29:247][ 15]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-06.24.29:247][ 15]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-06.24.29:247][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.01-06.24.29:252][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.01-06.24.29:252][ 15]LogAudioMixer: Display: 1: FrontRight
+[2024.03.01-06.24.29:261][ 15]LogAudioMixer: Display: Using Audio Device Headphones (LE_ATH-M50xBT2)
+[2024.03.01-06.24.29:261][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-06.24.29:261][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-06.24.29:261][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-06.24.29:262][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.01-06.24.29:262][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.01-06.24.29:262][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.01-06.24.29:263][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.01-06.24.29:263][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.01-06.24.29:263][ 15]LogInit: FAudioDevice initialized.
+[2024.03.01-06.24.29:263][ 15]LogAudio: Display: Audio Device (ID: 27) registered with world 'Setup'.
+[2024.03.01-06.24.29:263][ 15]PIE: Warning: UGameViewportClient::AddCursor: Invalid class specified.
+[2024.03.01-06.24.29:279][ 15]LogLoad: Game class is 'GM_Base_C'
+[2024.03.01-06.24.29:279][ 15]LogWorld: Bringing World /Game/Level/UEDPIE_0_Setup.Setup up for play (max tick rate 0) at 2024.02.29-22.24.29
+[2024.03.01-06.24.29:279][ 15]LogWorld: Bringing up level for play took: 0.000311
+[2024.03.01-06.24.29:280][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2024.03.01-06.24.29:281][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:290][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:299][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:309][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:317][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:326][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:334][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:343][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:351][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:359][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:368][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:377][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:386][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:395][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:403][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:413][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:422][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:431][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:440][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:449][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:458][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:469][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:478][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:489][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:500][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:511][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:522][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:532][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:542][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:552][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:562][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:572][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:582][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:593][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:603][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:614][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:624][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:635][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:647][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:658][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:669][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:679][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:690][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:701][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:712][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:723][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:734][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:746][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:758][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:769][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:781][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:795][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:809][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:823][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:836][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:852][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:864][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:876][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:887][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:900][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:912][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:925][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:937][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:949][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:962][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:975][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.29:988][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:002][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:015][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:028][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:042][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:056][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:070][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:082][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:097][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:110][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:124][ 15]LogBlueprintUserMessages: [BP_SpawnerGrid_4] X=0.000 Y=0.000 Z=0.000
+[2024.03.01-06.24.30:139][ 15]PIE: Server logged in
+[2024.03.01-06.24.30:139][ 15]PIE: Play in editor total start time 0.914 seconds.
+[2024.03.01-06.24.31:139][ 31]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.31:139][ 31]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][10]
+[2024.03.01-06.24.32:134][ 64]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.32:134][ 64]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][5]
+[2024.03.01-06.24.33:132][ 97]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.33:132][ 97]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-06.24.33:252][101]LogBlueprintUserMessages: [BP_Enemy_C_1] im dead 
+[2024.03.01-06.24.34:134][130]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.34:135][130]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.24.34:135][130]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.34:163][131]LogBlueprintUserMessages: [BP_Enemy_C_2] im dead 
+[2024.03.01-06.24.34:986][158]LogBlueprintUserMessages: [BP_Enemy_C_3] im dead 
+[2024.03.01-06.24.35:137][163]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.35:138][163]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][4]
+[2024.03.01-06.24.36:016][192]LogBlueprintUserMessages: [BP_Enemy_C_4] im dead 
+[2024.03.01-06.24.36:141][196]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.36:141][196]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][9]
+[2024.03.01-06.24.37:138][229]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.37:138][229]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][4]
+[2024.03.01-06.24.37:138][229]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.38:113][261]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.38:113][261]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][2]
+[2024.03.01-06.24.39:112][295]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.39:112][295]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][8]
+[2024.03.01-06.24.39:141][296]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.40:116][330]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.40:117][330]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][6]
+[2024.03.01-06.24.40:144][331]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.40:144][331]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.41:116][365]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.41:117][365]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][7]
+[2024.03.01-06.24.41:117][365]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.42:118][400]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.42:118][400]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][3]
+[2024.03.01-06.24.42:119][400]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.42:148][401]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.43:123][435]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.43:124][435]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][2]
+[2024.03.01-06.24.43:124][435]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.43:153][436]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.43:153][436]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.44:121][470]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.44:122][470]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][9]
+[2024.03.01-06.24.44:122][470]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.44:122][470]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.45:130][505]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.45:130][505]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][6]
+[2024.03.01-06.24.45:130][505]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.45:130][505]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.45:160][506]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.46:126][539]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.46:127][539]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][6]
+[2024.03.01-06.24.46:127][539]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.46:127][539]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.46:156][540]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.46:156][540]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.47:130][574]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.47:130][574]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][10]
+[2024.03.01-06.24.47:130][574]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.47:130][574]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.47:130][574]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.48:117][608]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.48:117][608]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][10]
+[2024.03.01-06.24.48:117][608]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.48:145][609]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.48:145][609]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.48:145][609]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.49:125][643]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.49:126][643]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][10]
+[2024.03.01-06.24.49:126][643]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.49:126][643]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.49:154][644]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.49:155][644]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.49:155][644]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.50:126][678]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.50:127][678]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][9]
+[2024.03.01-06.24.50:127][678]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.50:127][678]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.50:127][678]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.50:155][679]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.51:130][713]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.51:130][713]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][7]
+[2024.03.01-06.24.51:130][713]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.51:130][713]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.51:130][713]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.51:160][714]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.51:160][714]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][8]
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.52:139][748]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.53:136][783]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][3]
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.53:136][783]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:114][817]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.54:115][817]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][8]
+[2024.03.01-06.24.54:115][817]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:144][818]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:144][818]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:144][818]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:144][818]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.54:144][818]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:123][852]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.55:123][852]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][2]
+[2024.03.01-06.24.55:123][852]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:152][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:152][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:152][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:152][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:153][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.55:153][853]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:122][886]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.56:122][886]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][4]
+[2024.03.01-06.24.56:123][886]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:123][886]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:123][886]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:153][887]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:153][887]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.56:153][887]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:128][921]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.57:128][921]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][4]
+[2024.03.01-06.24.57:128][921]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:128][921]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:128][921]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:128][921]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:159][922]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:159][922]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.57:159][922]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:136][956]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][6]
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:137][956]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:166][957]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.58:166][957]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:116][990]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.24.59:116][990]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[5][4]
+[2024.03.01-06.24.59:116][990]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:146][991]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.24.59:230][994]LogBlueprintUserMessages: [BP_Enemy_C_14] im dead 
+[2024.03.01-06.24.59:775][ 13]LogBlueprintUserMessages: [BP_Enemy_C_6] im dead 
+[2024.03.01-06.25.00:120][ 25]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.00:120][ 25]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][5]
+[2024.03.01-06.25.00:121][ 25]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:121][ 25]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:121][ 25]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:121][ 25]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:151][ 26]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:151][ 26]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.00:151][ 26]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:128][ 60]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.01:128][ 60]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[4][6]
+[2024.03.01-06.25.01:129][ 60]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:129][ 60]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:129][ 60]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:129][ 60]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:129][ 60]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:159][ 61]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:159][ 61]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.01:159][ 61]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:117][ 94]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.02:118][ 94]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[3][1]
+[2024.03.01-06.25.02:118][ 94]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:118][ 94]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:118][ 94]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:147][ 95]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:148][ 95]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:148][ 95]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:148][ 95]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.02:148][ 95]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:129][129]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.03:129][129]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][5]
+[2024.03.01-06.25.03:129][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:129][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:129][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:129][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:131][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:131][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:131][129]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.03:158][130]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:115][163]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.04:115][163]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][1]
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.04:144][164]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][4]
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:125][198]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:153][199]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:154][199]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.05:154][199]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:120][232]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.06:120][232]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][4]
+[2024.03.01-06.25.06:120][232]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:120][232]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:120][232]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:120][232]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:152][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:152][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:152][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:152][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.06:152][233]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[1][2]
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:135][267]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:164][268]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.07:164][268]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[6][8]
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:130][301]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:158][302]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.08:158][302]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:123][334]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.01-06.25.09:123][334]LogBlueprintUserMessages: [BP_SpawnerGrid_4] Hole[2][3]
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:124][334]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:159][335]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:159][335]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:159][335]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:159][335]LogBlueprintUserMessages: [BP_Player_C_0] pow
+[2024.03.01-06.25.09:313][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.25.09:313][342]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Setup
+[2024.03.01-06.25.09:317][342]LogWorld: UWorld::CleanupWorld for Setup, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.25.09:727][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.25.09:739][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-06.25.09:747][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.25.09:767][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-06.25.09:769][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.25.09:771][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.25.09:772][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-06.25.09:812][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.01-06.25.09:904][343]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.03.01-06.29.55:083][137]LogSlate: Window 'BP_SpawnerGrid' being destroyed
+[2024.03.01-06.29.55:088][137]LogSlate: Window 'BP_SpawnerGrid' being destroyed
+[2024.03.01-06.29.55:092][137]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.29.55:092][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-06.29.55:163][137]LogBlueprintAssist: Asset closed BP_SpawnerGrid
+[2024.03.01-06.29.58:102][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.03.01-06.29.59:410][487]LogSlate: Window 'Save Content' being destroyed
+[2024.03.01-06.29.59:437][487]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.22ms
+[2024.03.01-06.29.59:463][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_Enemy37467BC24E488684C3DF91946A4148C3.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/BP_Enemy.uasset'
+[2024.03.01-06.29.59:481][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_Player832BCE05463E7D2E5C6C3AB4BD0542CC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Player/BP_Player.uasset'
+[2024.03.01-06.29.59:509][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BP_SpawnerGrid9326444049D821DDC031C6A1C9D7A3D1.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/BP_SpawnerGrid.uasset'
+[2024.03.01-06.29.59:511][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/EnemyTypesF13B36B24C0E3B997F0B398D15809A97.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/EnemyTypes.uasset'
+[2024.03.01-06.29.59:512][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole1" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole1.uasset" SILENT=true
+[2024.03.01-06.29.59:513][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole18C33E1004BBDBFCC5C795C8165BECF1C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole1.uasset'
+[2024.03.01-06.29.59:519][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole1_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole1_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:521][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole1_Sprite5198CECA46AA122E451DEA84F747BC20.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole1_Sprite.uasset'
+[2024.03.01-06.29.59:522][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole2" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole2.uasset" SILENT=true
+[2024.03.01-06.29.59:522][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole23D5633B94F92A4292CDB699820C8D9DF.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole2.uasset'
+[2024.03.01-06.29.59:528][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole2_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole2_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:529][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole2_Sprite7EFF6B8D44F9E679A059F5B9B3B4B538.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole2_Sprite.uasset'
+[2024.03.01-06.29.59:530][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole3" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole3.uasset" SILENT=true
+[2024.03.01-06.29.59:531][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole3BC40E2384C506EBCCD5D358F626AF430.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole3.uasset'
+[2024.03.01-06.29.59:536][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole3_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole3_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:538][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole3_Sprite2A0A4EAD4431B37E664F4AA08B6CD47E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole3_Sprite.uasset'
+[2024.03.01-06.29.59:539][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole4" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole4.uasset" SILENT=true
+[2024.03.01-06.29.59:540][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole4C068F4F24FEFB4DF4CDA45B73E53944E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole4.uasset'
+[2024.03.01-06.29.59:544][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole4_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole4_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:546][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole4_Sprite2747E4904D8C6E7CFAA14882040F7890.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole4_Sprite.uasset'
+[2024.03.01-06.29.59:547][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole5" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole5.uasset" SILENT=true
+[2024.03.01-06.29.59:548][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole5CC55F8304699629E9BAFD2B0699301BC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole5.uasset'
+[2024.03.01-06.29.59:552][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole5_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole5_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:554][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole5_SpriteE9CEA1454D220ED70155059FB246B4E0.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole5_Sprite.uasset'
+[2024.03.01-06.29.59:555][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole6" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole6.uasset" SILENT=true
+[2024.03.01-06.29.59:556][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole6FC69DB434A506D7598193F9EEA21380A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole6.uasset'
+[2024.03.01-06.29.59:560][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mole6_Sprite" FILE="../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole6_Sprite.uasset" SILENT=true
+[2024.03.01-06.29.59:562][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole6_Sprite8FDA01744A2641542C9CC68B266C793D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Mole6_Sprite.uasset'
+[2024.03.01-06.29.59:564][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/PowerUps3F5A5F1C4EFD80BB045EDD91A410A2C8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Player/PowerUps.uasset'
+[2024.03.01-06.29.59:577][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.01-06.29.59:582][487]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/SetupB75C1C164B88A977EF411EA9359F9693.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.01-06.29.59:615][487]LogFileHelpers: Saving map 'Setup' took 0.050
+[2024.03.01-06.29.59:644][487]LogSlate: Window 'Message Log' being destroyed
+[2024.03.01-06.29.59:647][487]LogSlate: Window 'Crit_A_Mole - Unreal Editor' being destroyed
+[2024.03.01-06.29.59:774][487]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.01-06.29.59:774][487]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Enemy/BP_Enemy.BP_Enemy
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Player/BP_Player.BP_Player
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Enemy/BP_SpawnerGrid.BP_SpawnerGrid
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprint/Enemy/EnemyTypes.EnemyTypes
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole6.Mole6
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole5.Mole5
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole4.Mole4
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole3.Mole3
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole1.Mole1
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating Texture2D /Game/Assets/Mole2.Mole2
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole1_Sprite.Mole1_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole2_Sprite.Mole2_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole3_Sprite.Mole3_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole4_Sprite.Mole4_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole5_Sprite.Mole5_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Mole6_Sprite.Mole6_Sprite
+[2024.03.01-06.29.59:775][487]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprint/Player/PowerUps.PowerUps
+[2024.03.01-06.29.59:775][487]LogAutoSizeComments: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/BB43883D49E2763C5836B49B6F365616.json took   0.44ms
+[2024.03.01-06.29.59:780][488]Cmd: QUIT_EDITOR
+[2024.03.01-06.29.59:780][488]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.01-06.29.59:782][488]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.01-06.30.00:486][488]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.01-06.30.00:486][488]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.01-06.30.00:486][488]LogAudio: Display: Audio Device unregistered from world 'Setup'.
+[2024.03.01-06.30.00:486][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.30.00:487][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.01-06.30.00:494][488]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.01-06.30.00:495][488]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.01-06.30.00:501][488]LogExit: Preparing to exit.
+[2024.03.01-06.30.00:501][488]LogAutoSizeComments: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/BB43883D49E2763C5836B49B6F365616.json took   0.38ms
+[2024.03.01-06.30.00:505][488]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.11ms
+[2024.03.01-06.30.01:036][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.03.01-06.30.01:128][488]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.30.01:169][488]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.03.01-06.30.01:181][488]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-06.30.01:181][488]LogExit: Editor shut down
+[2024.03.01-06.30.01:184][488]LogExit: Transaction tracking system shut down
+[2024.03.01-06.30.01:433][488]LogExit: Object subsystem successfully closed.
+[2024.03.01-06.30.01:450][488]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-06.30.01:450][488]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.03.01-06.30.01:450][488]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.03.01-06.30.01:450][488]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.03.01-06.30.01:450][488]LogShaderCompilers: Display: ================================================
+[2024.03.01-06.30.01:456][488]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.01-06.30.01:478][488]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (902)
+[2024.03.01-06.30.01:478][488]LogModuleManager: Shutting down and abandoning module SequencerWidgets (900)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (898)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module Voice (896)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module BlueprintGraph (894)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (892)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module SceneOutliner (890)
+[2024.03.01-06.30.01:479][488]LogModuleManager: Shutting down and abandoning module AddContentDialog (888)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WidgetCarousel (887)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module EditorWidgets (884)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module StatsViewer (882)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (880)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (878)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module AutomationWorker (876)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module SteamVREditor (874)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module OculusMR (872)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module RiderLC (870)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module RiderShaderInfo (868)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module OpenXRInput (866)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (864)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module TakeRecorder (863)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (860)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module TakesCore (858)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (852)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (850)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (846)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (844)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (842)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (840)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module SequenceRecorder (839)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (836)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (834)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module WebMMedia (832)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (830)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (828)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (826)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (824)
+[2024.03.01-06.30.01:481][488]LogModuleManager: Shutting down and abandoning module PlanarCut (822)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (820)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (818)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (816)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (814)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (812)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (810)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (808)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module CharacterAI (806)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module TextureAlignMode (804)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module BspMode (802)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module GeometryMode (800)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (798)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module SmartSnapping (796)
+[2024.03.01-06.30.01:482][488]LogModuleManager: Shutting down and abandoning module SessionServices (794)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module MeshPaint (792)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (790)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module FoliageEdit (788)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module LandscapeEditor (786)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module MeshPaintMode (784)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (782)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module ActorPickerMode (780)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module PlacementMode (778)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module ViewportInteraction (774)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module ClothPainter (772)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (771)
+[2024.03.01-06.30.01:484][488]LogModuleManager: Shutting down and abandoning module LogVisualizer (768)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module IntroTutorials (766)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (765)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (762)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2024.03.01-06.30.01:485][488]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (757)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (754)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (752)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (750)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (748)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module TraceInsights (746)
+[2024.03.01-06.30.03:412][488]MemoryProfiler: Shutdown
+[2024.03.01-06.30.03:412][488]NetworkingProfiler: Shutdown
+[2024.03.01-06.30.03:412][488]LoadingProfiler: Shutdown
+[2024.03.01-06.30.03:412][488]TimingProfiler: Shutdown
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module TraceServices (745)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (742)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (740)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module InputBindingEditor (738)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module MergeActors (736)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (734)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module LocalizationService (733)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module HardwareTargeting (730)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (728)
+[2024.03.01-06.30.03:412][488]LogModuleManager: Shutting down and abandoning module UndoHistory (726)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module XmlParser (724)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module Blutility (722)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (720)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (719)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (716)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (715)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module SettingsEditor (712)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module ProjectLauncher (710)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module SessionFrontend (708)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module ProfilerClient (706)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module DeviceManager (704)
+[2024.03.01-06.30.03:413][488]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (703)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module AutomationController (700)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module AutomationWindow (698)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module Layers (696)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (694)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module DetailCustomizations (692)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module PackagesDialog (690)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (688)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module Persona (686)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (685)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module AnimGraph (683)
+[2024.03.01-06.30.03:446][488]LogModuleManager: Shutting down and abandoning module Kismet (680)
+[2024.03.01-06.30.03:453][488]LogModuleManager: Shutting down and abandoning module KismetWidgets (679)
+[2024.03.01-06.30.03:453][488]LogModuleManager: Shutting down and abandoning module GraphEditor (676)
+[2024.03.01-06.30.03:453][488]LogModuleManager: Shutting down and abandoning module StructViewer (674)
+[2024.03.01-06.30.03:453][488]LogModuleManager: Shutting down and abandoning module ClassViewer (672)
+[2024.03.01-06.30.03:455][488]LogModuleManager: Shutting down and abandoning module Toolbox (670)
+[2024.03.01-06.30.03:455][488]LogModuleManager: Shutting down and abandoning module ModuleUI (668)
+[2024.03.01-06.30.03:455][488]LogModuleManager: Shutting down and abandoning module OutputLog (666)
+[2024.03.01-06.30.03:458][488]LogModuleManager: Shutting down and abandoning module GammaUI (664)
+[2024.03.01-06.30.03:458][488]LogModuleManager: Shutting down and abandoning module Documentation (662)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module LiveCoding (660)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module LevelSequence (658)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (656)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module MovieScene (654)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (652)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module LauncherPlatform (650)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module AnalyticsET (648)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module PortalServices (646)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module PortalRpc (644)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module MessagingRpc (642)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (640)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module AudioMixerCore (639)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module AIModule (636)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module GameplayDebugger (635)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module AITestSuite (633)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module NavigationSystem (631)
+[2024.03.01-06.30.03:460][488]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (628)
+[2024.03.01-06.30.03:464][488]LogModuleManager: Shutting down and abandoning module ProfilerService (626)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module TaskGraph (624)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (622)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module OculusEditor (620)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module OculusInput (618)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module RiderGameControl (616)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module RiderBlueprint (614)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (612)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (610)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (608)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module CollectionManager (607)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (604)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (602)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module UObjectPlugin (600)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (598)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (596)
+[2024.03.01-06.30.03:518][488]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (594)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module PluginUtils (592)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (590)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module GitSourceControl (588)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module SourceControl (587)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (584)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (582)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module SynthesisEditor (580)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module Synthesis (578)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module OpenXREditor (572)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module TakeSequencer (570)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module TakeMovieScene (568)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (566)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module GooglePAD (564)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module EditableMesh (562)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (560)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module CableComponent (558)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (555)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AssetTags (552)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (550)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (548)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AppleImageUtils (546)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AndroidPermission (544)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ScreenshotTools (542)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (540)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (538)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module TemplateSequence (536)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module BlueprintAssist (534)
+[2024.03.01-06.30.03:519][488]LogBlueprintAssist: Unregistered BlueprintAssist Commands
+[2024.03.01-06.30.03:519][488]LogBlueprintAssist: Shutdown BlueprintAssist Module
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module AutoSizeComments (532)
+[2024.03.01-06.30.03:519][488]LogAutoSizeComments: Shutdown AutoSizeComments
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module ImgMedia (528)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (526)
+[2024.03.01-06.30.03:519][488]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2024.03.01-06.30.03:520][488]LogOpenImageDenoise: OIDN shutting down
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (510)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (508)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (506)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (504)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (502)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (500)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (499)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (496)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (494)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (492)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (490)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (488)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module ChaosNiagara (486)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (484)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module FractureEditor (482)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (481)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module CurveEditorTools (462)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (460)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (454)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (452)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (450)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (448)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module CryptoKeys (446)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (444)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (442)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (440)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (438)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (436)
+[2024.03.01-06.30.03:520][488]LogModuleManager: Shutting down and abandoning module LiveLink (434)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (432)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (430)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (428)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module Paper2DEditor (426)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (424)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (422)
+[2024.03.01-06.30.04:375][488]LogModuleManager: Shutting down and abandoning module RiderLogging (420)
+[2024.03.01-06.30.04:376][488]LogModuleManager: Shutting down and abandoning module RiderLink (418)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module RD (416)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (414)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module AnimationSharing (412)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2024.03.01-06.30.04:377][488]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2024.03.01-06.30.04:478][488]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module PaperZDEditor (386)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module PaperZD (384)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (382)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (380)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (378)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2024.03.01-06.30.04:579][488]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2024.03.01-06.30.04:579][488]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2024.03.01-06.30.04:580][488]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2024.03.01-06.30.04:581][488]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2024.03.01-06.30.04:581][488]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2024.03.01-06.30.04:581][488]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2024.03.01-06.30.04:581][488]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (316)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2024.03.01-06.30.04:582][488]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.03.01-06.30.04:586][488]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module Core (248)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2024.03.01-06.30.04:587][488]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2024.03.01-06.30.04:589][488]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2024.03.01-06.30.04:590][488]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.03.01-06.30.04:592][488]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2024.03.01-06.30.04:592][488]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2024.03.01-06.30.04:592][488]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2024.03.01-06.30.04:592][488]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2024.03.01-06.30.04:592][488]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2024.03.01-06.30.04:595][488]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2024.03.01-06.30.04:597][488]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2024.03.01-06.30.04:609][488]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2024.03.01-06.30.04:609][488]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2024.03.01-06.30.04:609][488]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2024.03.01-06.30.04:609][488]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2024.03.01-06.30.04:609][488]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2024.03.01-06.30.04:610][488]LogHMD: Freeing OpenVRDLLHandle.
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2024.03.01-06.30.04:610][488]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (104)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module OpenXRAR (102)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module AugmentedReality (101)
+[2024.03.01-06.30.04:610][488]LogModuleManager: Shutting down and abandoning module OpenXRHMD (98)
+[2024.03.01-06.30.04:611][488]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2024.03.01-06.30.04:611][488]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2024.03.01-06.30.04:611][488]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2024.03.01-06.30.04:611][488]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2024.03.01-06.30.04:611][488]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2024.03.01-06.30.04:612][488]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2024.03.01-06.30.04:612][488]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2024.03.01-06.30.04:619][488]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2024.03.01-06.30.04:619][488]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.03.01-06.30.04:619][488]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCB28F5A-41B9-A5CD-7B26-3AB393BFDA2A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06502d8d4b515c27731f22851fa0ef19%7C295c9b1a1f904b1393429e81f1803460%7Cd0d2b8cd-0ac6-40df-9d84-b8391e0b2166&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.03.01-06.30.04:619][488]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.03.01-06.30.04:643][488]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2024.03.01-06.30.04:644][488]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.03.01-06.30.04:645][488]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.03.01-06.30.04:646][488]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.03.01-06.30.04:647][488]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.03.01-06.30.04:647][488]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.03.01-06.30.04:647][488]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.03.01-06.30.04:647][488]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.03.01-06.30.04:647][488]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.03.01-06.30.04:649][488]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.03.01-06.30.04:650][488]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.03.01-06.30.04:650][488]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.03.01-06.30.04:650][488]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.03.01-06.30.04:663][488]LogD3D11RHI: Shutdown
+[2024.03.01-06.30.04:663][488]LogD3D11RHI: CleanupD3DDevice
+[2024.03.01-06.30.04:666][488]LogExit: Exiting.
+[2024.03.01-06.30.04:683][488]Log file closed, 02/29/24 22:30:04
