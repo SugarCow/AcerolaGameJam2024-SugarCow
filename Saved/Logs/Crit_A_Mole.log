@@ -2188,3 +2188,1205 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.03-06.02.29:956][258]AssetCheck: New page: Asset Save: multiple assets
 [2024.03.03-06.02.29:956][258]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Enemy/BP_Enemy.BP_Enemy
 [2024.03.03-06.02.29:956][258]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-06.06.46:124][142]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.06.46:124][142]LogContentBrowser: Deferred new asset file creation: PowerUpMole-Sheet1
+[2024.03.03-06.06.46:146][142]LogContentBrowser: Creating deferred item: PowerUpMole-Sheet1
+[2024.03.03-06.06.58:251][220]LogContentBrowser: Attempting asset rename: PowerUpMole-Sheet1 -> BuffMole_Spawn
+[2024.03.03-06.06.58:251][220]LogContentBrowser: End creating deferred item PowerUpMole-Sheet1
+[2024.03.03-06.07.30:742][400]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.07.30:742][400]LogContentBrowser: Deferred new asset file creation: PowerUpMole-Sheet1
+[2024.03.03-06.07.30:763][400]LogContentBrowser: Creating deferred item: PowerUpMole-Sheet1
+[2024.03.03-06.07.43:505][520]LogContentBrowser: Attempting asset rename: PowerUpMole-Sheet1 -> BuffMole_Idle
+[2024.03.03-06.07.43:506][520]LogContentBrowser: End creating deferred item PowerUpMole-Sheet1
+[2024.03.03-06.07.57:524][644]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.07.57:525][644]LogContentBrowser: Deferred new asset file creation: PowerUpMole-Sheet1
+[2024.03.03-06.07.57:552][644]LogContentBrowser: Creating deferred item: PowerUpMole-Sheet1
+[2024.03.03-06.08.03:352][119]LogContentBrowser: Attempting asset rename: PowerUpMole-Sheet1 -> BuffMole_IdleBlink
+[2024.03.03-06.08.03:352][119]LogContentBrowser: End creating deferred item PowerUpMole-Sheet1
+[2024.03.03-06.08.10:694][655]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.08.10:694][655]LogContentBrowser: Deferred new asset file creation: PowerUpMole-Sheet1
+[2024.03.03-06.08.10:720][655]LogContentBrowser: Creating deferred item: PowerUpMole-Sheet1
+[2024.03.03-06.08.16:046][133]LogContentBrowser: Attempting asset rename: PowerUpMole-Sheet1 -> BuffMole_Die
+[2024.03.03-06.08.16:047][133]LogContentBrowser: End creating deferred item PowerUpMole-Sheet1
+[2024.03.03-06.08.35:900][661]BlueprintLog: New page: Compile ABP_Enemy
+[2024.03.03-06.08.35:932][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.03.03-06.09.27:827][939]BlueprintLog: New page: Compile ABP_Enemy
+[2024.03.03-06.09.27:864][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.03.03-06.10.03:809][781]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.26ms
+[2024.03.03-06.10.03:830][781]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/ABP_Enemy0CCC72E149E683AC41800C8F306AED0C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/ABP_Enemy.uasset'
+[2024.03.03-06.10.03:844][781]AssetCheck: New page: Asset Save: ABP_Enemy
+[2024.03.03-06.10.03:844][781]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Blueprint/Enemy/ABP_Enemy.ABP_Enemy
+[2024.03.03-06.10.05:977][958]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprint/Enemy/AS_Enemy.AS_Enemy
+[2024.03.03-06.10.05:984][958]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.10.06:025][958]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.10.06:050][959]LogRenderer: Reallocating scene render targets to support 1604x928 Format 10 NumSamples 1 (Frame:1).
+[2024.03.03-06.10.18:645][  5]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> BuffMole_Spawn
+[2024.03.03-06.10.18:684][  5]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.43ms
+[2024.03.03-06.10.18:685][  5]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_SpawnE42EC69A4966633D688A82872E210FDB.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.uasset'
+[2024.03.03-06.10.18:817][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.03.03-06.10.18:881][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.03-06.10.18:903][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.03-06.10.18:985][  5]AssetCheck: New page: Asset Save: BuffMole_Spawn
+[2024.03.03-06.10.18:985][  5]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.BuffMole_Spawn
+[2024.03.03-06.10.20:620][127]LogContentBrowser: Deferred new asset file creation: BuffMole_Die1
+[2024.03.03-06.10.20:639][127]LogContentBrowser: Creating deferred item: BuffMole_Die1
+[2024.03.03-06.10.22:693][281]LogContentBrowser: Attempting asset rename: BuffMole_Die1 -> BuffMole_Die1
+[2024.03.03-06.10.22:693][281]LogContentBrowser: End creating deferred item BuffMole_Die1
+[2024.03.03-06.10.22:988][309]Cmd: TRANSACTION UNDO
+[2024.03.03-06.10.22:988][309]LogEditorTransaction: Undo Break Pin Links
+[2024.03.03-06.10.24:303][385]Cmd: TRANSACTION UNDO
+[2024.03.03-06.10.24:304][385]LogEditorTransaction: Undo Rename Node
+[2024.03.03-06.10.25:562][481]Cmd: TRANSACTION REDO
+[2024.03.03-06.10.25:562][481]LogEditorTransaction: Redo Rename Node
+[2024.03.03-06.10.25:751][495]Cmd: TRANSACTION REDO
+[2024.03.03-06.10.25:751][495]LogEditorTransaction: Redo Break Pin Links
+[2024.03.03-06.10.28:865][740]LogContentBrowser: Attempting asset rename: BuffMole_Die1 -> BuffMole_Die1
+[2024.03.03-06.10.30:334][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.03.03-06.10.31:366][838]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-06.10.31:443][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.03.03-06.10.46:017][ 68]LogContentBrowser: Attempting asset rename: BuffMole_Spawn_2 -> BuffMole_Despawn
+[2024.03.03-06.10.46:059][ 68]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.68ms
+[2024.03.03-06.10.46:060][ 68]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Despawn7F1D06C34B4B3166C83F2BBE186FC505.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.uasset'
+[2024.03.03-06.10.46:122][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.03-06.10.46:154][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.03-06.10.46:174][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.10.46:244][ 68]AssetCheck: New page: Asset Save: BuffMole_Despawn
+[2024.03.03-06.10.46:244][ 68]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.BuffMole_Despawn
+[2024.03.03-06.10.57:800][995]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.10.57:801][995]LogContentBrowser: Deferred new asset file creation: PowerUpMole-Sheet1
+[2024.03.03-06.10.57:826][995]LogContentBrowser: Creating deferred item: PowerUpMole-Sheet1
+[2024.03.03-06.11.06:060][687]LogContentBrowser: Attempting asset rename: PowerUpMole-Sheet1 -> Buffmole_Despawn
+[2024.03.03-06.11.06:062][687]LogContentBrowser: End creating deferred item PowerUpMole-Sheet1
+[2024.03.03-06.11.08:099][854]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/BuffMole/Buffmole_Despawn.Buffmole_Despawn
+[2024.03.03-06.11.08:116][854]LogBlueprintAssist: Asset opened Buffmole_Despawn (FlipbookEditor)
+[2024.03.03-06.11.40:308][632]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.64ms
+[2024.03.03-06.11.40:310][632]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Buffmole_Despawn6180E30441EFE9745E3B9BB3E31EB046.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/BuffMole/Buffmole_Despawn.uasset'
+[2024.03.03-06.11.40:324][632]AssetCheck: New page: Asset Save: Buffmole_Despawn
+[2024.03.03-06.11.40:324][632]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/BuffMole/Buffmole_Despawn.Buffmole_Despawn
+[2024.03.03-06.11.43:520][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.03.03-06.11.43:546][872]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.66ms
+[2024.03.03-06.11.43:566][872]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/ABP_Enemy22475BE8474CAC38285C4A8A2D42B66C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/ABP_Enemy.uasset'
+[2024.03.03-06.11.43:576][872]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Spawn29AE23D04E414D61C4C45FA61E2C7470.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/BuffMole/BuffMole_Spawn.uasset'
+[2024.03.03-06.11.43:582][872]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleF9FF7C6F423B2FB6ABCE9FBD5AA79E33.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/BuffMole/BuffMole_Idle.uasset'
+[2024.03.03-06.11.43:587][872]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleBlink4C61507141406B36C971589C5FFB9C75.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/BuffMole/BuffMole_IdleBlink.uasset'
+[2024.03.03-06.11.43:593][872]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_DieDE810062481963D96B018EB9B77165C5.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/BuffMole/BuffMole_Die.uasset'
+[2024.03.03-06.11.43:610][872]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.11.43:610][872]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Blueprint/Enemy/ABP_Enemy.ABP_Enemy
+[2024.03.03-06.11.43:610][872]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/BuffMole/BuffMole_Die.BuffMole_Die
+[2024.03.03-06.11.43:610][872]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/BuffMole/BuffMole_IdleBlink.BuffMole_IdleBlink
+[2024.03.03-06.11.43:610][872]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/BuffMole/BuffMole_Idle.BuffMole_Idle
+[2024.03.03-06.11.43:610][872]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/BuffMole/BuffMole_Spawn.BuffMole_Spawn
+[2024.03.03-06.11.48:867][310]BlueprintLog: New page: Compile ABP_Enemy
+[2024.03.03-06.11.48:903][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.03.03-06.12.02:908][449]LogContentBrowser: Attempting asset rename: BuffMole_Spawn_2 -> BuffMole_Idle
+[2024.03.03-06.12.02:955][449]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.75ms
+[2024.03.03-06.12.02:956][449]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleC115B6E143BDF5A21BC894A76D5AF17D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Idle.uasset'
+[2024.03.03-06.12.03:031][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.03.03-06.12.03:059][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.03-06.12.03:079][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.03-06.12.03:150][449]AssetCheck: New page: Asset Save: BuffMole_Idle
+[2024.03.03-06.12.03:151][449]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Idle.BuffMole_Idle
+[2024.03.03-06.12.13:931][322]LogContentBrowser: Attempting asset rename: BuffMole_Idle -> BuffMole_Idle
+[2024.03.03-06.12.22:722][ 58]LogContentBrowser: Attempting asset rename: BuffMole_Idle_3 -> BuffMole_IdleBlink
+[2024.03.03-06.12.22:761][ 58]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.65ms
+[2024.03.03-06.12.22:762][ 58]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleBlinkEFB73DB14D5BE3A2460D4D8CE2B8F911.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.uasset'
+[2024.03.03-06.12.22:831][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.03-06.12.22:862][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.03-06.12.22:883][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-06.12.22:957][ 58]AssetCheck: New page: Asset Save: BuffMole_IdleBlink
+[2024.03.03-06.12.22:957][ 58]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.BuffMole_IdleBlink
+[2024.03.03-06.12.27:490][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.03.03-06.12.29:029][447]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-06.12.29:101][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.03.03-06.12.45:939][792]LogContentBrowser: Attempting asset rename: BuffMole_Spawn_2 -> BuffMole_Die
+[2024.03.03-06.12.45:978][792]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.16ms
+[2024.03.03-06.12.45:979][792]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Die5B1CB600483937CC9A3454A9AD9F7A8A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Die.uasset'
+[2024.03.03-06.12.46:045][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.03-06.12.46:075][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.03-06.12.46:093][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.03-06.12.46:157][792]AssetCheck: New page: Asset Save: BuffMole_Die
+[2024.03.03-06.12.46:157][792]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Die.BuffMole_Die
+[2024.03.03-06.12.55:925][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.03-06.12.55:951][594]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.02ms
+[2024.03.03-06.12.55:975][594]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/ABP_Enemy574D2F3E4DCE7266A810949EE2FA8C7B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/ABP_Enemy.uasset'
+[2024.03.03-06.12.55:991][594]AssetCheck: New page: Asset Save: ABP_Enemy
+[2024.03.03-06.12.55:991][594]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Blueprint/Enemy/ABP_Enemy.ABP_Enemy
+[2024.03.03-06.13.21:627][661]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.36ms
+[2024.03.03-06.13.21:628][661]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/AS_Enemy2CE50F8444036149517241B0A56135A3.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AS_Enemy.uasset'
+[2024.03.03-06.13.21:643][661]AssetCheck: New page: Asset Save: AS_Enemy
+[2024.03.03-06.13.21:643][661]LogContentValidation: Display: Validating PaperZDAnimationSource_Flipbook /Game/Blueprint/Enemy/AS_Enemy.AS_Enemy
+[2024.03.03-06.13.28:938][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.13.28:961][279]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.78ms
+[2024.03.03-06.13.28:962][279]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Spawn3A2BB591426508F900A36EAF68596134.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.uasset'
+[2024.03.03-06.13.28:963][279]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Idle25B3C22B47D6CAFEC5B89DAA12841A5D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Idle.uasset'
+[2024.03.03-06.13.28:964][279]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleBlink53C556B14DF576C6007B43B682AAED65.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.uasset'
+[2024.03.03-06.13.28:967][279]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Die3E993CC2487778D090614981341F9483.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Die.uasset'
+[2024.03.03-06.13.28:982][279]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.13.28:982][279]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.BuffMole_Spawn
+[2024.03.03-06.13.28:982][279]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Idle.BuffMole_Idle
+[2024.03.03-06.13.28:982][279]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.BuffMole_IdleBlink
+[2024.03.03-06.13.28:982][279]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Die.BuffMole_Die
+[2024.03.03-06.14.00:380][717]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.14.00:380][717]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.14.00:408][717]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.14.08:657][409]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Spawn
+[2024.03.03-06.14.08:658][409]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.14.30:226][836]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.14.30:227][836]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.14.30:255][836]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.14.36:926][360]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Idle
+[2024.03.03-06.14.36:927][360]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.14.46:414][ 50]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.14.46:415][ 50]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.14.46:438][ 50]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.14.54:377][668]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_ReadyBomb
+[2024.03.03-06.14.54:378][668]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.14.59:097][ 58]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.44ms
+[2024.03.03-06.14.59:098][ 58]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ReadyBomb196B79E3410165BA68C21980A03D36EB.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_ReadyBomb.uasset'
+[2024.03.03-06.14.59:106][ 58]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Idle4F2F615148716FFFEB20609256ABE66F.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Idle.uasset'
+[2024.03.03-06.14.59:114][ 58]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Spawn38468D4141E00DCEB96C8BA6A1FF756E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Spawn.uasset'
+[2024.03.03-06.14.59:129][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.14.59:129][ 58]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.14.59:129][ 58]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Idle.BomberMole_Idle
+[2024.03.03-06.14.59:129][ 58]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Spawn.BomberMole_Spawn
+[2024.03.03-06.17.48:400][306]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.17.48:400][306]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.17.48:427][306]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.17.58:390][978]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_FirstPhase
+[2024.03.03-06.17.58:391][978]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.18.03:039][261]LogContentBrowser: Deferred new asset file creation: BomberMole_FirstPhase1
+[2024.03.03-06.18.03:061][261]LogContentBrowser: Creating deferred item: BomberMole_FirstPhase1
+[2024.03.03-06.18.11:748][843]LogContentBrowser: Attempting asset rename: BomberMole_FirstPhase1 -> BomberMole_SecondPhase
+[2024.03.03-06.18.11:749][843]LogContentBrowser: End creating deferred item BomberMole_FirstPhase1
+[2024.03.03-06.18.17:111][168]LogContentBrowser: Deferred new asset file creation: BomberMole_SecondPhase1
+[2024.03.03-06.18.17:136][168]LogContentBrowser: Creating deferred item: BomberMole_SecondPhase1
+[2024.03.03-06.18.28:847][918]LogContentBrowser: Attempting asset rename: BomberMole_SecondPhase1 -> BomberMole_ThirdPhase
+[2024.03.03-06.18.28:848][918]LogContentBrowser: End creating deferred item BomberMole_SecondPhase1
+[2024.03.03-06.18.31:795][ 97]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_SecondPhase.BomberMole_SecondPhase
+[2024.03.03-06.18.31:811][ 97]LogBlueprintAssist: Asset opened BomberMole_SecondPhase (FlipbookEditor)
+[2024.03.03-06.18.39:262][603]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.14ms
+[2024.03.03-06.18.39:264][603]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_SecondPhaseA8E010F44CB6C78C20D0C09B8FFFE258.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_SecondPhase.uasset'
+[2024.03.03-06.18.39:283][603]AssetCheck: New page: Asset Save: BomberMole_SecondPhase
+[2024.03.03-06.18.39:283][603]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_SecondPhase.BomberMole_SecondPhase
+[2024.03.03-06.18.43:224][865]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.51ms
+[2024.03.03-06.18.43:225][865]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_SecondPhase9B9F49904BB75671913E0398FBF7B60B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_SecondPhase.uasset'
+[2024.03.03-06.18.43:244][865]AssetCheck: New page: Asset Save: BomberMole_SecondPhase
+[2024.03.03-06.18.43:244][865]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_SecondPhase.BomberMole_SecondPhase
+[2024.03.03-06.18.49:716][294]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_ThirdPhase.BomberMole_ThirdPhase
+[2024.03.03-06.18.49:729][294]LogBlueprintAssist: Asset opened BomberMole_ThirdPhase (FlipbookEditor)
+[2024.03.03-06.19.38:669][794]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_FirstPhase.BomberMole_FirstPhase
+[2024.03.03-06.19.38:684][794]LogBlueprintAssist: Asset opened BomberMole_FirstPhase (FlipbookEditor)
+[2024.03.03-06.20.45:683][800]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Spawn.BomberMole_Spawn
+[2024.03.03-06.20.45:699][800]LogBlueprintAssist: Asset opened BomberMole_Spawn (FlipbookEditor)
+[2024.03.03-06.21.00:826][758]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.21.00:826][758]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.21.00:860][758]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.21.07:939][254]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Despawn
+[2024.03.03-06.21.07:940][254]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.21.09:578][361]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Despawn.BomberMole_Despawn
+[2024.03.03-06.21.09:593][361]LogBlueprintAssist: Asset opened BomberMole_Despawn (FlipbookEditor)
+[2024.03.03-06.22.08:616][358]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.47ms
+[2024.03.03-06.22.08:618][358]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Despawn6516AB204F77A076C4807FA97790639C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Despawn.uasset'
+[2024.03.03-06.22.08:626][358]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ThirdPhase36CCD8034F48622D3120C8A197BF0B6E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_ThirdPhase.uasset'
+[2024.03.03-06.22.08:635][358]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_FirstPhase58DC956F452637F732EDBA9B9A4CD301.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_FirstPhase.uasset'
+[2024.03.03-06.22.08:652][358]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.22.08:653][358]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Despawn.BomberMole_Despawn
+[2024.03.03-06.22.08:653][358]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_ThirdPhase.BomberMole_ThirdPhase
+[2024.03.03-06.22.08:653][358]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_FirstPhase.BomberMole_FirstPhase
+[2024.03.03-06.22.47:357][ 68]LogContentBrowser: Attempting asset rename: BomberMole_ThirdPhase -> BomberMole_1stPhase
+[2024.03.03-06.22.47:411][ 68]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.32ms
+[2024.03.03-06.22.47:412][ 68]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_1stPhase9DD56A1A4725EFC4ED4C088B1DB723A9.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_1stPhase.uasset'
+[2024.03.03-06.22.47:494][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.03.03-06.22.47:529][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.03.03-06.22.47:549][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.03-06.22.47:622][ 68]AssetCheck: New page: Asset Save: BomberMole_1stPhase
+[2024.03.03-06.22.47:622][ 68]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_1stPhase.BomberMole_1stPhase
+[2024.03.03-06.23.58:713][439]LogContentBrowser: Attempting asset rename: BomberMole_FirstPhase -> BomberPhse_3rdPhase
+[2024.03.03-06.23.58:769][439]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.00ms
+[2024.03.03-06.23.58:770][439]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberPhse_3rdPhaseE5A39020442F63A729B50493FA7F4205.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberPhse_3rdPhase.uasset'
+[2024.03.03-06.23.58:843][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.23.58:874][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.03-06.23.58:895][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-06.23.58:971][439]AssetCheck: New page: Asset Save: BomberPhse_3rdPhase
+[2024.03.03-06.23.58:971][439]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberPhse_3rdPhase.BomberPhse_3rdPhase
+[2024.03.03-06.24.15:104][734]LogContentBrowser: Attempting asset rename: BomberMole_SecondPhase -> BomberPhase_2ndPhase
+[2024.03.03-06.24.15:147][734]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.17ms
+[2024.03.03-06.24.15:148][734]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberPhase_2ndPhase04C8BCF24567ABFBE779F482ECE1E55C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberPhase_2ndPhase.uasset'
+[2024.03.03-06.24.15:219][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.24.15:254][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.03-06.24.15:273][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.03-06.24.15:339][734]AssetCheck: New page: Asset Save: BomberPhase_2ndPhase
+[2024.03.03-06.24.15:340][734]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberPhase_2ndPhase.BomberPhase_2ndPhase
+[2024.03.03-06.24.27:360][629]LogContentBrowser: Attempting asset rename: BomberPhase_2ndPhase -> BomberMole_2ndPhase
+[2024.03.03-06.24.27:409][629]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.23ms
+[2024.03.03-06.24.27:410][629]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_2ndPhaseC5A69A964635F502C444C5A2737700C7.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_2ndPhase.uasset'
+[2024.03.03-06.24.27:480][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.24.27:511][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.03-06.24.27:532][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.03-06.24.27:600][629]AssetCheck: New page: Asset Save: BomberMole_2ndPhase
+[2024.03.03-06.24.27:600][629]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_2ndPhase.BomberMole_2ndPhase
+[2024.03.03-06.24.33:215][ 59]LogContentBrowser: Attempting asset rename: BomberPhse_3rdPhase -> BomberMole_3rdPhase
+[2024.03.03-06.24.33:263][ 59]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.50ms
+[2024.03.03-06.24.33:264][ 59]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_3rdPhase7EFDA7F44BD56717D18DE9B8B88BEF57.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_3rdPhase.uasset'
+[2024.03.03-06.24.33:336][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.24.33:366][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.03-06.24.33:387][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.24.33:468][ 59]AssetCheck: New page: Asset Save: BomberMole_3rdPhase
+[2024.03.03-06.24.33:468][ 59]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_3rdPhase.BomberMole_3rdPhase
+[2024.03.03-06.24.43:234][768]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.78ms
+[2024.03.03-06.24.43:235][768]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_1stPhase7AF836824E6116C824EADAA1299A33D6.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_1stPhase.uasset'
+[2024.03.03-06.24.43:250][768]AssetCheck: New page: Asset Save: BomberMole_1stPhase
+[2024.03.03-06.24.43:250][768]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_1stPhase.BomberMole_1stPhase
+[2024.03.03-06.25.20:797][509]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.25.20:798][509]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.25.20:826][509]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.25.28:748][110]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Throw
+[2024.03.03-06.25.28:749][110]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.25.49:591][630]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.25.49:592][630]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.25.49:619][630]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.25.57:442][229]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Hurt
+[2024.03.03-06.25.57:442][229]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.26.04:609][707]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.26.04:610][707]LogContentBrowser: Deferred new asset file creation: BomberMole-Sheet1
+[2024.03.03-06.26.04:644][707]LogContentBrowser: Creating deferred item: BomberMole-Sheet1
+[2024.03.03-06.26.10:206][123]LogContentBrowser: Attempting asset rename: BomberMole-Sheet1 -> BomberMole_Die
+[2024.03.03-06.26.10:206][123]LogContentBrowser: End creating deferred item BomberMole-Sheet1
+[2024.03.03-06.26.20:348][855]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.69ms
+[2024.03.03-06.26.20:350][855]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_DieBE76B48E438A19EF77A8F187EDD32D6D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Die.uasset'
+[2024.03.03-06.26.20:358][855]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_HurtF18F358F46E76A385F22DBB03758329D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Hurt.uasset'
+[2024.03.03-06.26.20:366][855]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ThrowA0C231A84C3F74FBFDC24FA46DDDFB5A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleBomber/BomberMole_Throw.uasset'
+[2024.03.03-06.26.20:381][855]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.26.20:381][855]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Die.BomberMole_Die
+[2024.03.03-06.26.20:381][855]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Hurt.BomberMole_Hurt
+[2024.03.03-06.26.20:381][855]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleBomber/BomberMole_Throw.BomberMole_Throw
+[2024.03.03-06.26.41:978][376]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.26.41:978][376]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.26.42:006][376]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.26.50:185][953]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole-Spawn
+[2024.03.03-06.26.50:186][953]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.27.09:206][371]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.27.09:207][371]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.27.09:230][371]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.27.15:913][858]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Check
+[2024.03.03-06.27.15:913][858]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.27.34:806][221]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.27.34:807][221]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.27.34:836][221]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.27.45:631][ 28]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Popup
+[2024.03.03-06.27.45:632][ 28]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.27.53:310][586]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.27.53:310][586]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.27.53:345][586]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.27.57:920][925]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Idle
+[2024.03.03-06.27.57:920][925]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.28.11:310][839]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.28.11:310][839]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.28.11:347][839]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.28.16:715][213]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Whistle
+[2024.03.03-06.28.16:716][213]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.28.25:136][819]LogContentBrowser: Attempting asset rename: CaptainMole_Whistle -> CaptainMole_Whistle
+[2024.03.03-06.28.26:234][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.03.03-06.28.27:604][896]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-06.28.27:670][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.03-06.28.46:297][171]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.28.46:298][171]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.28.46:344][171]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.28.51:934][621]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Whistle
+[2024.03.03-06.28.51:935][621]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.29.08:745][824]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.29.08:746][824]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.29.08:777][824]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.29.13:694][194]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Hurt
+[2024.03.03-06.29.13:695][194]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.29.30:678][373]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.29.30:679][373]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.29.30:717][373]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.29.35:343][702]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Die
+[2024.03.03-06.29.35:344][702]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.29.40:296][ 73]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Die.CaptainMole_Die
+[2024.03.03-06.29.40:312][ 73]LogBlueprintAssist: Asset opened CaptainMole_Die (FlipbookEditor)
+[2024.03.03-06.29.44:652][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.03.03-06.29.44:657][351]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.26ms
+[2024.03.03-06.29.44:663][351]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Setup4805939D43905EF7B9B3FDB2FFD56452.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.03-06.29.44:691][351]AssetCheck: New page: Asset Save: Setup
+[2024.03.03-06.29.44:691][351]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-06.30.09:415][ 35]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.30.09:417][ 35]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.30.09:457][ 35]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.30.15:169][426]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Despawn
+[2024.03.03-06.30.15:169][426]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.30.16:588][515]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-06.30.16:605][515]LogBlueprintAssist: Asset opened CaptainMole_Despawn (FlipbookEditor)
+[2024.03.03-06.30.26:526][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.03.03-06.30.26:532][270]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.54ms
+[2024.03.03-06.30.26:537][270]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Setup075E59324834716914BCF2B57F233FAA.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.03-06.30.26:565][270]AssetCheck: New page: Asset Save: Setup
+[2024.03.03-06.30.26:565][270]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-06.30.35:261][922]LogContentBrowser: Attempting asset rename: CaptainMole_Despawn -> CaptainMole_DespawnFromPeek
+[2024.03.03-06.30.35:311][922]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 3.94ms
+[2024.03.03-06.30.35:312][922]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DespawnFromPeekE7F012F8464E4424F125B8B9059B9889.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_DespawnFromPeek.uasset'
+[2024.03.03-06.30.35:385][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-06.30.35:415][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.03-06.30.35:436][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-06.30.35:512][922]AssetCheck: New page: Asset Save: CaptainMole_DespawnFromPeek
+[2024.03.03-06.30.35:513][922]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_DespawnFromPeek.CaptainMole_DespawnFromPeek
+[2024.03.03-06.31.00:616][599]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.31.00:616][599]LogContentBrowser: Deferred new asset file creation: CaptainMole-Sheet1
+[2024.03.03-06.31.00:657][599]LogContentBrowser: Creating deferred item: CaptainMole-Sheet1
+[2024.03.03-06.31.07:140][ 56]LogContentBrowser: Attempting asset rename: CaptainMole-Sheet1 -> CaptainMole_Despawn
+[2024.03.03-06.31.07:140][ 56]LogContentBrowser: End creating deferred item CaptainMole-Sheet1
+[2024.03.03-06.31.08:733][168]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-06.31.08:749][168]LogBlueprintAssist: Asset opened CaptainMole_Despawn (FlipbookEditor)
+[2024.03.03-06.31.58:127][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.03.03-06.31.58:152][643]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.13ms
+[2024.03.03-06.31.58:153][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole-SpawnDFDD1BB3460FA8232FDA7A90FED8B180.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole-Spawn.uasset'
+[2024.03.03-06.31.58:160][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Check90D6749745DEDF52056952A3CDF7BF43.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Check.uasset'
+[2024.03.03-06.31.58:167][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Popup8CA9922847D54B290D503B95CEE39DCF.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Popup.uasset'
+[2024.03.03-06.31.58:174][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_IdleDDF9E52D4386D28F30D2518F5C812B2F.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Idle.uasset'
+[2024.03.03-06.31.58:180][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_WhistleC4F9641F437EB1409C9A0280FB01F118.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Whistle.uasset'
+[2024.03.03-06.31.58:187][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Hurt5823C219470D1D96D290B4A088B4148B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Hurt.uasset'
+[2024.03.03-06.31.58:192][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Die03E9340540990E0219B4E7ACD29886FA.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Die.uasset'
+[2024.03.03-06.31.58:199][643]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Despawn663BDE144F0CAD10067AC2A4E34A71E0.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.uasset'
+[2024.03.03-06.31.58:214][643]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Die.CaptainMole_Die
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Idle.CaptainMole_Idle
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Hurt.CaptainMole_Hurt
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Popup.CaptainMole_Popup
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Check.CaptainMole_Check
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole-Spawn.CaptainMole-Spawn
+[2024.03.03-06.31.58:214][643]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Whistle.CaptainMole_Whistle
+[2024.03.03-06.32.22:122][745]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.32.22:122][745]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.32.22:150][745]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.32.36:444][739]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Spawn
+[2024.03.03-06.32.36:444][739]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.32.57:899][163]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.32.57:900][163]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.32.57:929][163]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.33.05:552][714]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Despawn
+[2024.03.03-06.33.05:553][714]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.33.14:729][315]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.33.14:729][315]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.33.14:761][315]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.33.19:990][667]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Idle
+[2024.03.03-06.33.19:990][667]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.33.24:923][971]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.33.24:923][971]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.33.24:956][971]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.33.32:006][478]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_IdleBlink
+[2024.03.03-06.33.32:007][478]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.34.35:183][870]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.34.35:183][870]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.34.35:219][870]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.34.47:199][689]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_PointGUn
+[2024.03.03-06.34.47:200][689]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.35.01:181][624]LogContentBrowser: Attempting asset rename: CloneMole_PointGUn -> CloneMole_ReadyGun
+[2024.03.03-06.35.01:225][624]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.31ms
+[2024.03.03-06.35.01:227][624]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_ReadyGunD20379E1462AA7C4A2243B9EF88FA0B8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_ReadyGun.uasset'
+[2024.03.03-06.35.01:296][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.03.03-06.35.01:325][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.03-06.35.01:345][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.35.01:414][624]AssetCheck: New page: Asset Save: CloneMole_ReadyGun
+[2024.03.03-06.35.01:414][624]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_ReadyGun.CloneMole_ReadyGun
+[2024.03.03-06.35.32:271][644]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.35.32:272][644]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.35.32:308][644]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.35.33:312][711]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.35.47:284][640]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_PointGun
+[2024.03.03-06.35.47:338][640]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.61ms
+[2024.03.03-06.35.47:340][640]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_PointGun46E4723042D986EEE9FEAABDCE989094.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_PointGun.uasset'
+[2024.03.03-06.35.47:416][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.03-06.35.47:450][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.03-06.35.47:472][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.03-06.35.47:543][640]AssetCheck: New page: Asset Save: CloneMole_PointGun
+[2024.03.03-06.35.47:543][640]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_PointGun.CloneMole_PointGun
+[2024.03.03-06.36.08:676][ 45]Cmd: TRANSACTION UNDO
+[2024.03.03-06.36.08:676][ 45]LogEditorTransaction: Undo Move Row
+[2024.03.03-06.36.10:649][153]Cmd: TRANSACTION REDO
+[2024.03.03-06.36.10:649][153]LogEditorTransaction: Redo Move Row
+[2024.03.03-06.36.15:359][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.03-06.36.16:690][490]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-06.36.16:763][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.03.03-06.36.36:188][799]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_ReadyGun.CloneMole_ReadyGun
+[2024.03.03-06.36.36:206][799]LogBlueprintAssist: Asset opened CloneMole_ReadyGun (FlipbookEditor)
+[2024.03.03-06.36.45:655][400]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_PointGun.CloneMole_PointGun
+[2024.03.03-06.36.45:672][400]LogBlueprintAssist: Asset opened CloneMole_PointGun (FlipbookEditor)
+[2024.03.03-06.37.06:586][760]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.37.06:587][760]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.37.06:638][760]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.37.11:488][ 91]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Shoot
+[2024.03.03-06.37.11:489][ 91]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.37.16:883][447]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.37.16:884][447]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.37.16:932][447]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.37.20:918][716]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Hurt
+[2024.03.03-06.37.20:919][716]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.37.29:828][330]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.37.29:828][330]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.37.29:867][330]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.37.34:877][712]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_Die
+[2024.03.03-06.37.34:878][712]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.37.41:270][118]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.37.41:270][118]LogContentBrowser: Deferred new asset file creation: CloneMole-Sheet1
+[2024.03.03-06.37.41:303][118]LogContentBrowser: Creating deferred item: CloneMole-Sheet1
+[2024.03.03-06.37.46:682][518]LogContentBrowser: Attempting asset rename: CloneMole-Sheet1 -> CloneMole_CloneDies
+[2024.03.03-06.37.46:683][518]LogContentBrowser: End creating deferred item CloneMole-Sheet1
+[2024.03.03-06.37.51:450][844]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_CloneDies.CloneMole_CloneDies
+[2024.03.03-06.37.51:465][844]LogBlueprintAssist: Asset opened CloneMole_CloneDies (FlipbookEditor)
+[2024.03.03-06.37.53:863][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.03.03-06.37.53:869][ 17]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.87ms
+[2024.03.03-06.37.53:873][ 17]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/SetupE837BBBF4A0CD9927065A4AA4F1FCFA8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.03-06.37.53:898][ 17]AssetCheck: New page: Asset Save: Setup
+[2024.03.03-06.37.53:898][ 17]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-06.37.54:824][ 84]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.14ms
+[2024.03.03-06.37.54:826][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_IdleBlink3FB326C941A3345D8B76D4BB3D0F8B04.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_IdleBlink.uasset'
+[2024.03.03-06.37.54:832][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Idle1BEE1F8E4A229C196B658B8B1C7C822E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Idle.uasset'
+[2024.03.03-06.37.54:840][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_DespawnF274F4FF49CA36A1E045A8B60FE5A4BF.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Despawn.uasset'
+[2024.03.03-06.37.54:845][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Spawn04DC20B3426E59693A2884A985800CE4.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Spawn.uasset'
+[2024.03.03-06.37.54:852][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_CloneDiesF089C0FA453172E13115C48AC8B0FA13.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_CloneDies.uasset'
+[2024.03.03-06.37.54:857][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_DieFFA195674B4DDD52E122A4AD6AD1DD12.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Die.uasset'
+[2024.03.03-06.37.54:864][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Hurt46EA8FFD4C12D5D248D1ABA0A7B0AA4C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Hurt.uasset'
+[2024.03.03-06.37.54:871][ 84]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Shoot3E6C9FA440A901A0ED6ACBBC6F7A65B9.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleClone/CloneMole_Shoot.uasset'
+[2024.03.03-06.37.54:886][ 84]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_IdleBlink.CloneMole_IdleBlink
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Idle.CloneMole_Idle
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Despawn.CloneMole_Despawn
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Spawn.CloneMole_Spawn
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_CloneDies.CloneMole_CloneDies
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Die.CloneMole_Die
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Hurt.CloneMole_Hurt
+[2024.03.03-06.37.54:887][ 84]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleClone/CloneMole_Shoot.CloneMole_Shoot
+[2024.03.03-06.38.49:594][ 87]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.38.49:595][ 87]LogContentBrowser: Deferred new asset file creation: DebuffMole-Sheet1
+[2024.03.03-06.38.49:627][ 87]LogContentBrowser: Creating deferred item: DebuffMole-Sheet1
+[2024.03.03-06.38.54:321][489]LogContentBrowser: Attempting asset rename: DebuffMole-Sheet1 -> DebuffMole_Spawn
+[2024.03.03-06.38.54:322][489]LogContentBrowser: End creating deferred item DebuffMole-Sheet1
+[2024.03.03-06.39.00:681][988]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.39.00:681][988]LogContentBrowser: Deferred new asset file creation: DebuffMole-Sheet1
+[2024.03.03-06.39.00:711][988]LogContentBrowser: Creating deferred item: DebuffMole-Sheet1
+[2024.03.03-06.39.04:658][338]LogContentBrowser: Attempting asset rename: DebuffMole-Sheet1 -> DebuffMole_Idle
+[2024.03.03-06.39.04:658][338]LogContentBrowser: End creating deferred item DebuffMole-Sheet1
+[2024.03.03-06.39.10:402][778]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.39.10:402][778]LogContentBrowser: Deferred new asset file creation: DebuffMole-Sheet1
+[2024.03.03-06.39.10:439][778]LogContentBrowser: Creating deferred item: DebuffMole-Sheet1
+[2024.03.03-06.39.14:875][168]LogContentBrowser: Attempting asset rename: DebuffMole-Sheet1 -> DebuffMole_Die
+[2024.03.03-06.39.14:876][168]LogContentBrowser: End creating deferred item DebuffMole-Sheet1
+[2024.03.03-06.39.19:119][496]LogContentBrowser: Deferred new asset file creation: DebuffMole_Spawn1
+[2024.03.03-06.39.19:140][496]LogContentBrowser: Creating deferred item: DebuffMole_Spawn1
+[2024.03.03-06.39.20:064][563]LogContentBrowser: Attempting asset rename: DebuffMole_Spawn1 -> DebuffMole_Spawn1
+[2024.03.03-06.39.20:065][563]LogContentBrowser: End creating deferred item DebuffMole_Spawn1
+[2024.03.03-06.39.26:652][120]LogContentBrowser: Attempting asset rename: DebuffMole_Spawn1 -> DebuffMole_Despawn
+[2024.03.03-06.39.26:694][120]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.38ms
+[2024.03.03-06.39.26:696][120]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DebuffMole_DespawnB3F147A04F153F911AA29BA8D8B52AD6.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleDebuff/DebuffMole_Despawn.uasset'
+[2024.03.03-06.39.26:779][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.03.03-06.39.26:812][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.03.03-06.39.26:834][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.39.26:907][120]AssetCheck: New page: Asset Save: DebuffMole_Despawn
+[2024.03.03-06.39.26:907][120]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Despawn.DebuffMole_Despawn
+[2024.03.03-06.39.28:355][226]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Despawn.DebuffMole_Despawn
+[2024.03.03-06.39.28:372][226]LogBlueprintAssist: Asset opened DebuffMole_Despawn (FlipbookEditor)
+[2024.03.03-06.39.42:719][358]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.36ms
+[2024.03.03-06.39.42:721][358]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DebuffMole_Despawn9FCDBF5740F847954E19C88B5778A858.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleDebuff/DebuffMole_Despawn.uasset'
+[2024.03.03-06.39.42:736][358]AssetCheck: New page: Asset Save: DebuffMole_Despawn
+[2024.03.03-06.39.42:736][358]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Despawn.DebuffMole_Despawn
+[2024.03.03-06.39.50:585][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.03.03-06.39.50:612][  5]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.14ms
+[2024.03.03-06.39.50:614][  5]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Despawn0F0061914D857237B6E402801574ACFC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.uasset'
+[2024.03.03-06.39.50:622][  5]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DebuffMole_Spawn980F4ABE43FA6DC087953DA69945B11C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleDebuff/DebuffMole_Spawn.uasset'
+[2024.03.03-06.39.50:630][  5]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DebuffMole_Idle59CD0D3B46E3C53FFA2CB09D7BABB13D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleDebuff/DebuffMole_Idle.uasset'
+[2024.03.03-06.39.50:639][  5]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DebuffMole_Die4BF185934EE88A38619C9795CBCFB70A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleDebuff/DebuffMole_Die.uasset'
+[2024.03.03-06.39.50:657][  5]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.39.50:657][  5]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Spawn.DebuffMole_Spawn
+[2024.03.03-06.39.50:657][  5]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleCaptain/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-06.39.50:657][  5]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Die.DebuffMole_Die
+[2024.03.03-06.39.50:657][  5]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleDebuff/DebuffMole_Idle.DebuffMole_Idle
+[2024.03.03-06.41.00:569][745]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.41.00:570][745]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.41.00:601][745]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.41.05:147][ 73]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Spawn
+[2024.03.03-06.41.05:147][ 73]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.41.11:188][451]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.41.11:188][451]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.41.11:222][451]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.41.15:842][795]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Despawn
+[2024.03.03-06.41.15:842][795]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.41.29:533][587]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.41.29:533][587]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.41.29:565][587]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.41.33:397][845]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Idle
+[2024.03.03-06.41.33:398][845]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.41.37:405][127]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.41.37:405][127]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.41.37:437][127]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.41.43:787][559]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_IdleBlink
+[2024.03.03-06.41.43:788][559]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.41.58:604][573]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.41.58:605][573]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.41.58:641][573]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.42.07:130][188]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_PrepareGun
+[2024.03.03-06.42.07:130][188]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.42.18:192][933]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.42.18:193][933]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.42.18:231][933]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.42.20:702][ 96]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.42.30:654][820]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_PointGun
+[2024.03.03-06.42.30:705][820]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.13ms
+[2024.03.03-06.42.30:707][820]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_PointGunDC4D05894CD263F61DC8368E3BBC4A3D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_PointGun.uasset'
+[2024.03.03-06.42.30:787][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.03-06.42.30:819][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.03.03-06.42.30:841][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-06.42.30:922][820]AssetCheck: New page: Asset Save: GirlMole_PointGun
+[2024.03.03-06.42.30:922][820]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_PointGun.GirlMole_PointGun
+[2024.03.03-06.42.37:543][261]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.42.37:543][261]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.42.37:577][261]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.42.41:889][557]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Shoot
+[2024.03.03-06.42.41:890][557]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.42.47:057][912]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.42.47:058][912]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.42.47:093][912]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.42.51:561][229]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Hurt
+[2024.03.03-06.42.51:562][229]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.42.57:681][649]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.03.03-06.42.57:681][649]LogContentBrowser: Deferred new asset file creation: GirlMole-Sheet1
+[2024.03.03-06.42.57:719][649]LogContentBrowser: Creating deferred item: GirlMole-Sheet1
+[2024.03.03-06.43.32:314][152]LogContentBrowser: Attempting asset rename: GirlMole-Sheet1 -> GirlMole_Die
+[2024.03.03-06.43.32:314][152]LogContentBrowser: End creating deferred item GirlMole-Sheet1
+[2024.03.03-06.44.03:927][460]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.24ms
+[2024.03.03-06.44.03:928][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_DieEDC9394142554EA3BCFBACAA4CA49B6B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Die.uasset'
+[2024.03.03-06.44.03:937][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_Hurt5F88D13E48E67E0D7E0A6CB61B5F8062.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Hurt.uasset'
+[2024.03.03-06.44.03:944][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_Shoot0AC3FED640987F0FCDC26A99BAEA7C0A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Shoot.uasset'
+[2024.03.03-06.44.03:950][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_PrepareGun4D19A2E5473FBA9CA7F3818D61252467.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_PrepareGun.uasset'
+[2024.03.03-06.44.03:957][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_IdleBlink972689F04EBFB807F79B439302C5BBFC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_IdleBlink.uasset'
+[2024.03.03-06.44.03:963][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_IdleAF6F8E884989D49B7FE96886B02732BC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Idle.uasset'
+[2024.03.03-06.44.03:970][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_Despawn9247E193454E6ED66AEB11B1099EE1B7.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Despawn.uasset'
+[2024.03.03-06.44.03:977][460]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/GirlMole_Spawn7CFB6F6A4D8CCD80A3E8B881F13A4A85.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Assets/Enemies/MoleFemale/GirlMole_Spawn.uasset'
+[2024.03.03-06.44.03:990][460]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Die.GirlMole_Die
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Hurt.GirlMole_Hurt
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Shoot.GirlMole_Shoot
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_PrepareGun.GirlMole_PrepareGun
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_IdleBlink.GirlMole_IdleBlink
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Idle.GirlMole_Idle
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Despawn.GirlMole_Despawn
+[2024.03.03-06.44.03:990][460]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Enemies/MoleFemale/GirlMole_Spawn.GirlMole_Spawn
+[2024.03.03-06.44.12:355][155]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.12:355][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.12:372][155]LogBlueprintAssist: Asset closed Buffmole_Despawn
+[2024.03.03-06.44.14:195][300]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.14:195][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.14:208][300]LogBlueprintAssist: Asset closed BomberMole_2ndPhase
+[2024.03.03-06.44.14:932][365]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.14:932][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.14:947][365]LogBlueprintAssist: Asset closed BomberMole_1stPhase
+[2024.03.03-06.44.15:564][422]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.15:564][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.15:578][422]LogBlueprintAssist: Asset closed BomberMole_3rdPhase
+[2024.03.03-06.44.16:484][507]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.16:484][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.16:500][507]LogBlueprintAssist: Asset closed BomberMole_Spawn
+[2024.03.03-06.44.17:152][570]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.17:152][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.17:170][570]LogBlueprintAssist: Asset closed BomberMole_Despawn
+[2024.03.03-06.44.17:934][639]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.17:934][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.17:949][639]LogBlueprintAssist: Asset closed CaptainMole_Die
+[2024.03.03-06.44.18:783][718]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.44.18:783][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.44.18:805][718]LogBlueprintAssist: Asset closed CaptainMole_DespawnFromPeek
+[2024.03.03-06.45.22:389][222]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> BomberMole
+[2024.03.03-06.45.22:438][222]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.46ms
+[2024.03.03-06.45.22:439][222]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole82A0BA03431E36DA78E279A7309E4F07.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole.uasset'
+[2024.03.03-06.45.22:534][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.03-06.45.22:574][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.03.03-06.45.22:596][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.03-06.45.22:678][222]AssetCheck: New page: Asset Save: BomberMole
+[2024.03.03-06.45.22:679][222]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole.BomberMole
+[2024.03.03-06.45.29:869][837]LogContentBrowser: Attempting asset rename: BomberMole -> BomberMole_Idle
+[2024.03.03-06.45.29:917][837]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.13ms
+[2024.03.03-06.45.29:918][837]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Idle16F6DF874288833C645E169D44F61285.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Idle.uasset'
+[2024.03.03-06.45.29:994][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.03.03-06.45.30:030][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.03-06.45.30:055][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.03-06.45.30:130][837]AssetCheck: New page: Asset Save: BomberMole_Idle
+[2024.03.03-06.45.30:130][837]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Idle.BomberMole_Idle
+[2024.03.03-06.45.45:384][899]LogContentBrowser: Attempting asset rename: BomberMole_Idle_2 -> BomberMole_Spawn
+[2024.03.03-06.45.45:429][899]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.09ms
+[2024.03.03-06.45.45:430][899]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Spawn3B2D40EE4B669DE0F94827B2CBA58C9B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.uasset'
+[2024.03.03-06.45.45:498][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.03.03-06.45.45:528][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.03.03-06.45.45:547][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.45.45:620][899]AssetCheck: New page: Asset Save: BomberMole_Spawn
+[2024.03.03-06.45.45:620][899]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.BomberMole_Spawn
+[2024.03.03-06.45.55:621][591]LogContentBrowser: Attempting asset rename: BomberMole_Spawn_2 -> BomberMole_Despawn
+[2024.03.03-06.45.55:667][591]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.13ms
+[2024.03.03-06.45.55:667][591]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Despawn543628F649B91C3DAA98568AA80DDEC8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.uasset'
+[2024.03.03-06.45.55:744][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.03.03-06.45.55:777][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.03-06.45.55:800][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.03-06.45.55:875][591]AssetCheck: New page: Asset Save: BomberMole_Despawn
+[2024.03.03-06.45.55:875][591]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.BomberMole_Despawn
+[2024.03.03-06.46.04:715][190]LogContentBrowser: Attempting asset rename: BomberMole_Despawn_2 -> BomberMole_Die
+[2024.03.03-06.46.04:766][190]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.81ms
+[2024.03.03-06.46.04:767][190]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_DieC93930854A3160FA2B4804AED2E8553D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Die.uasset'
+[2024.03.03-06.46.04:842][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.03.03-06.46.04:880][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.03.03-06.46.04:903][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-06.46.04:972][190]AssetCheck: New page: Asset Save: BomberMole_Die
+[2024.03.03-06.46.04:972][190]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Die.BomberMole_Die
+[2024.03.03-06.46.08:941][469]Cmd: DUPLICATE
+[2024.03.03-06.46.08:942][469]Cmd: ACTOR DUPLICATE
+[2024.03.03-06.46.17:917][ 61]LogContentBrowser: Attempting asset rename: BomberMole_Die_2 -> BomberMole_Hurt
+[2024.03.03-06.46.17:956][ 61]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.49ms
+[2024.03.03-06.46.17:956][ 61]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Hurt2C560F534F2440180E1BBB9623D569EE.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.uasset'
+[2024.03.03-06.46.18:035][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.03.03-06.46.18:068][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.03.03-06.46.18:089][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.03-06.46.18:172][ 61]AssetCheck: New page: Asset Save: BomberMole_Hurt
+[2024.03.03-06.46.18:172][ 61]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.BomberMole_Hurt
+[2024.03.03-06.46.31:420][981]LogContentBrowser: Attempting asset rename: BomberMole_Hurt_2 -> BomberMole_ReadyBomb
+[2024.03.03-06.46.31:466][981]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.26ms
+[2024.03.03-06.46.31:467][981]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ReadyBombDC74CDA0438ACA6AEBE9F1B56A80CFE7.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.uasset'
+[2024.03.03-06.46.31:546][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.03.03-06.46.31:580][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.03-06.46.31:602][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-06.46.31:683][981]AssetCheck: New page: Asset Save: BomberMole_ReadyBomb
+[2024.03.03-06.46.31:683][981]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.46.49:159][169]LogContentBrowser: Attempting asset rename: BomberMole_ReadyBomb_2 -> BomberMole_Throw
+[2024.03.03-06.46.49:204][169]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.77ms
+[2024.03.03-06.46.49:205][169]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ThrowC1B8A1D141B2776EDEF0CC8834877E8E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Throw.uasset'
+[2024.03.03-06.46.49:277][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.03-06.46.49:310][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.03-06.46.49:329][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.46.49:401][169]AssetCheck: New page: Asset Save: BomberMole_Throw
+[2024.03.03-06.46.49:401][169]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Throw.BomberMole_Throw
+[2024.03.03-06.47.59:102][119]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.42ms
+[2024.03.03-06.47.59:102][119]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/AS_EnemyE140C3B1441F6159B2AE9AB34418AAFE.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AS_Enemy.uasset'
+[2024.03.03-06.47.59:118][119]AssetCheck: New page: Asset Save: AS_Enemy
+[2024.03.03-06.47.59:118][119]LogContentValidation: Display: Validating PaperZDAnimationSource_Flipbook /Game/Blueprint/Enemy/AS_Enemy.AS_Enemy
+[2024.03.03-06.48.00:356][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.03.03-06.48.00:393][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.48.00:397][209]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.11ms
+[2024.03.03-06.48.00:402][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/SetupC257F0EF47B222C4CF559D9C2DCD698C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.03-06.48.00:415][209]LogFileHelpers: Saving map 'Setup' took 0.042
+[2024.03.03-06.48.00:417][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Despawn84F9DA61486A1A111565F498E609E9DB.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.uasset'
+[2024.03.03-06.48.00:418][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Idle06496DBE468B3C89F25D99A08F697577.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Idle.uasset'
+[2024.03.03-06.48.00:420][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Spawn229D05484FE9C3AA267E76BADAFC648E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.uasset'
+[2024.03.03-06.48.00:421][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Despawn907FC4054CA8289E93DE1981D052982E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.uasset'
+[2024.03.03-06.48.00:422][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Die417A622B47DCE940F5FC55A19CF8F076.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Die.uasset'
+[2024.03.03-06.48.00:424][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_HurtB3C867DA4A70CE4A85D825BC1CDF938D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.uasset'
+[2024.03.03-06.48.00:425][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ReadyBombF16195B14FA6BF60CDD58F8BE7E6D54E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.uasset'
+[2024.03.03-06.48.00:426][209]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ThrowE4F3741B48126AABE009A5B8819F07A1.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Throw.uasset'
+[2024.03.03-06.48.00:443][209]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.48.00:443][209]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-06.48.00:443][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Die.BomberMole_Die
+[2024.03.03-06.48.00:443][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.BuffMole_Despawn
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.BomberMole_Despawn
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.BomberMole_Spawn
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Idle.BomberMole_Idle
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Throw.BomberMole_Throw
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.BomberMole_Hurt
+[2024.03.03-06.48.00:444][209]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.50.21:378][732]LogContentBrowser: Attempting asset rename: BuffMole_Spawn_2 -> DeBuffMole_Spawn_2
+[2024.03.03-06.50.21:428][732]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.64ms
+[2024.03.03-06.50.21:429][732]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Spawn_2B8C888144FF922CAF12364AD071A39C6.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn_2.uasset'
+[2024.03.03-06.50.21:503][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-06.50.21:540][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.03-06.50.21:563][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.03-06.50.21:648][732]AssetCheck: New page: Asset Save: DeBuffMole_Spawn_2
+[2024.03.03-06.50.21:648][732]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn_2.DeBuffMole_Spawn_2
+[2024.03.03-06.50.29:120][161]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.29:120][161]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.29:692][185]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.29:692][185]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.30:078][211]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.30:078][211]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.30:482][239]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.30:483][239]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.30:861][265]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.30:861][265]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.31:242][289]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.31:242][289]LogEditorTransaction: Undo Edit Animation Data
+[2024.03.03-06.50.31:555][307]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.31:555][307]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.31:952][331]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.31:952][331]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.32:369][356]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.32:369][356]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.32:931][390]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.32:931][390]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.34:022][455]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.34:022][455]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.34:753][498]Cmd: TRANSACTION UNDO
+[2024.03.03-06.50.34:753][498]LogEditorTransaction: Undo Edit Category
+[2024.03.03-06.50.36:099][576]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.36:099][576]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.36:316][588]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.36:316][588]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.36:490][598]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.36:490][598]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.36:704][610]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.36:704][610]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.36:903][622]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.36:903][622]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.37:115][635]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.37:115][635]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.37:330][648]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.37:330][648]LogEditorTransaction: Redo Edit Animation Data
+[2024.03.03-06.50.37:524][660]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.37:524][660]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.37:744][671]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.37:744][671]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.37:973][684]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.37:973][684]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.38:199][696]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.38:199][696]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.38:450][710]Cmd: TRANSACTION REDO
+[2024.03.03-06.50.38:450][710]LogEditorTransaction: Redo Edit Category
+[2024.03.03-06.50.49:155][376]LogContentBrowser: Attempting asset rename: DeBuffMole_Spawn_2 -> DeBuffMole_Spawn
+[2024.03.03-06.50.49:192][376]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.29ms
+[2024.03.03-06.50.49:192][376]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Spawn0C7225F748D6BC22085416A7F9AA1E8C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.uasset'
+[2024.03.03-06.50.49:258][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.03.03-06.50.49:290][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.03-06.50.49:310][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.03-06.50.49:388][376]AssetCheck: New page: Asset Save: DeBuffMole_Spawn
+[2024.03.03-06.50.49:388][376]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.DeBuffMole_Spawn
+[2024.03.03-06.50.57:742][911]LogContentBrowser: Attempting asset rename: BuffMole_Despawn_2 -> DeBuffMole_Despawn
+[2024.03.03-06.50.57:789][911]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.50ms
+[2024.03.03-06.50.57:789][911]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Despawn1D1E3C324CEFA4019904E481D40F1BF6.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.uasset'
+[2024.03.03-06.50.57:853][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.03.03-06.50.57:884][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.03.03-06.50.57:904][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-06.50.57:978][911]AssetCheck: New page: Asset Save: DeBuffMole_Despawn
+[2024.03.03-06.50.57:978][911]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.DeBuffMole_Despawn
+[2024.03.03-06.51.04:140][344]LogContentBrowser: Attempting asset rename: BuffMole_Die_2 -> DeBuffMole_Die
+[2024.03.03-06.51.04:191][344]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.61ms
+[2024.03.03-06.51.04:192][344]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Die492C6380464979248011CCA5E9BDE9DD.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.uasset'
+[2024.03.03-06.51.04:262][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.03.03-06.51.04:293][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.03.03-06.51.04:314][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-06.51.04:397][344]AssetCheck: New page: Asset Save: DeBuffMole_Die
+[2024.03.03-06.51.04:397][344]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.DeBuffMole_Die
+[2024.03.03-06.51.09:086][668]LogContentBrowser: Attempting asset rename: BuffMole_Idle_2 -> DeBuffMole_Idle
+[2024.03.03-06.51.09:126][668]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.34ms
+[2024.03.03-06.51.09:127][668]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Idle1D8C77BD4FCC3B441170BCADD72E411C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.uasset'
+[2024.03.03-06.51.09:200][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.03.03-06.51.09:230][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.03-06.51.09:254][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-06.51.09:321][668]AssetCheck: New page: Asset Save: DeBuffMole_Idle
+[2024.03.03-06.51.09:321][668]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.DeBuffMole_Idle
+[2024.03.03-06.51.13:949][  3]LogContentBrowser: Attempting asset rename: BuffMole_IdleBlink_2 -> DeBuffMole_IdleBlink
+[2024.03.03-06.51.13:996][  3]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.30ms
+[2024.03.03-06.51.13:997][  3]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_IdleBlink347173F64B267165113B1596A218DEE8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_IdleBlink.uasset'
+[2024.03.03-06.51.14:072][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.03.03-06.51.14:109][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.03-06.51.14:133][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-06.51.14:213][  3]AssetCheck: New page: Asset Save: DeBuffMole_IdleBlink
+[2024.03.03-06.51.14:213][  3]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_IdleBlink.DeBuffMole_IdleBlink
+[2024.03.03-06.51.41:957][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.03.03-06.51.41:982][840]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.09ms
+[2024.03.03-06.51.41:983][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Spawn736BAF5844A63AC73195F0A21D237FDA.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.uasset'
+[2024.03.03-06.51.41:985][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_DespawnA25B589B442F85F155950694A5E1D66A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.uasset'
+[2024.03.03-06.51.41:986][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleC597EC27440BB28D94649D9D044DD760.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Idle.uasset'
+[2024.03.03-06.51.41:988][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_IdleBlink00F258DE4BE6E3BE5ED63E8FC525D5E0.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.uasset'
+[2024.03.03-06.51.41:990][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BuffMole_Die05A7943F46252225108286B9B8BE7953.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BuffMole_Die.uasset'
+[2024.03.03-06.51.41:992][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Idle45E1D7A84AE2874F885BDAAC6B7D4BFE.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Idle.uasset'
+[2024.03.03-06.51.41:992][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Spawn2D630091420E0545B63474858DE10C09.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.uasset'
+[2024.03.03-06.51.41:993][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Despawn68AA941244BA08935A651F9B76B6CBE3.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.uasset'
+[2024.03.03-06.51.41:996][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Die286C3F3D444146B4684600AB010BB95B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Die.uasset'
+[2024.03.03-06.51.41:998][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Hurt5BD15DCD49E505AD88F4C9B8B3B3A973.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.uasset'
+[2024.03.03-06.51.41:999][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_ReadyBomb932859FF4A260630F5BF1C873E1021BB.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.uasset'
+[2024.03.03-06.51.42:000][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_Throw4826B0D34D974BF4C802C0A3DE4D5964.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_Throw.uasset'
+[2024.03.03-06.51.42:003][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_DespawnBCB1391842A30A294BFD998AC8B6B105.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.uasset'
+[2024.03.03-06.51.42:004][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_DieE56AE56C4B070D21288D56A706A02932.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.uasset'
+[2024.03.03-06.51.42:005][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Idle3E856AB2481431D48B3766B772D43815.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.uasset'
+[2024.03.03-06.51.42:006][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_IdleBlinkD0722EF24785B5ADD4A3C5A308132EB1.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_IdleBlink.uasset'
+[2024.03.03-06.51.42:008][840]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Spawn4CE2BF07455255FF8DE8C4B862D2C5FF.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.uasset'
+[2024.03.03-06.51.42:023][840]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Spawn.BuffMole_Spawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Die.BomberMole_Die
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Idle.BuffMole_Idle
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Despawn.BuffMole_Despawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Despawn.BomberMole_Despawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Spawn.BomberMole_Spawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Idle.BomberMole_Idle
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.DeBuffMole_Spawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_IdleBlink.DeBuffMole_IdleBlink
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Throw.BomberMole_Throw
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_Hurt.BomberMole_Hurt
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.DeBuffMole_Idle
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.DeBuffMole_Die
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.DeBuffMole_Despawn
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_IdleBlink.BuffMole_IdleBlink
+[2024.03.03-06.51.42:023][840]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BuffMole_Die.BuffMole_Die
+[2024.03.03-06.51.56:197][759]LogContentBrowser: Attempting asset rename: DeBuffMole_Despawn -> DeBuffMole_Despawn
+[2024.03.03-06.52.39:015][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.03.03-06.52.39:996][601]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-06.52.40:081][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.03-06.52.40:111][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-06.52.40:134][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.03-06.52.57:939][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.03-06.52.57:966][739]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.20ms
+[2024.03.03-06.52.57:967][739]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Despawn0DA2ECFD49715D20C23A0C91254022DC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.uasset'
+[2024.03.03-06.52.57:969][739]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Die72BD95F54EABB7054660D2A33B3353D8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.uasset'
+[2024.03.03-06.52.57:971][739]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_Idle008B544F4367408D411D41BCC5605E61.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.uasset'
+[2024.03.03-06.52.57:973][739]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/DeBuffMole_SpawnABD5D6C641881D783D01E68D8F0D64C4.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.uasset'
+[2024.03.03-06.52.57:994][739]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-06.52.57:995][739]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Spawn.DeBuffMole_Spawn
+[2024.03.03-06.52.57:995][739]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Idle.DeBuffMole_Idle
+[2024.03.03-06.52.57:995][739]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Die.DeBuffMole_Die
+[2024.03.03-06.52.57:995][739]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/DeBuffMole_Despawn.DeBuffMole_Despawn
+[2024.03.03-06.53.53:946][384]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.53.53:953][384]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.53.54:001][384]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.53.55:590][484]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.53.55:598][484]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.53.55:653][484]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.53.56:685][552]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.53.56:693][552]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.53.56:742][552]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.54.03:920][ 68]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.54.03:927][ 68]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.54.03:985][ 68]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.54.06:728][241]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.54.06:733][241]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.54.06:784][241]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.54.07:384][278]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_ReadyBomb.BomberMole_ReadyBomb
+[2024.03.03-06.54.07:392][278]LogBlueprintAssist: Asset opened AS_Enemy (PaperZDAnimationSourceEditor)
+[2024.03.03-06.54.07:444][278]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2024.03.03-06.54.09:071][384]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.09:071][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.54.09:592][422]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.09:592][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.54.10:018][459]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.10:018][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.54.10:462][492]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.10:462][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.54.11:018][541]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.11:018][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.54.11:706][594]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-06.54.11:706][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-06.56.43:173][147]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> FemaleMole
+[2024.03.03-06.56.43:219][147]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.98ms
+[2024.03.03-06.56.43:221][147]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMoleDF90BEAB464A20E33A0E31A4CA1A4F1A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole.uasset'
+[2024.03.03-06.56.43:312][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.03.03-06.56.43:352][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.03-06.56.43:374][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.56.43:457][147]AssetCheck: New page: Asset Save: FemaleMole
+[2024.03.03-06.56.43:457][147]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole.FemaleMole
+[2024.03.03-06.56.54:482][957]LogContentBrowser: Attempting asset rename: FemaleMole -> FemaleMole_Spawn
+[2024.03.03-06.56.54:523][957]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.22ms
+[2024.03.03-06.56.54:524][957]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Spawn0051DC7644388EB1F7978298E1E7A86B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Spawn.uasset'
+[2024.03.03-06.56.54:602][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.03.03-06.56.54:639][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.03.03-06.56.54:660][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.03-06.56.54:739][957]AssetCheck: New page: Asset Save: FemaleMole_Spawn
+[2024.03.03-06.56.54:739][957]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Spawn.FemaleMole_Spawn
+[2024.03.03-06.57.02:385][517]LogContentBrowser: Attempting asset rename: FemaleMole_Spawn_2 -> FemaleMole_Idle
+[2024.03.03-06.57.02:434][517]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 8.09ms
+[2024.03.03-06.57.02:435][517]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_IdleA8BEC2FD477856D64441E8AD94343877.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Idle.uasset'
+[2024.03.03-06.57.02:509][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.03-06.57.02:544][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.03-06.57.02:563][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.57.02:645][517]AssetCheck: New page: Asset Save: FemaleMole_Idle
+[2024.03.03-06.57.02:645][517]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Idle.FemaleMole_Idle
+[2024.03.03-06.57.11:623][179]LogContentBrowser: Attempting asset rename: FemaleMole_Idle_2 -> FemaleMole_Despawn
+[2024.03.03-06.57.11:676][179]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 7.05ms
+[2024.03.03-06.57.11:677][179]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_DespawnBEB12A4C48CB8AAB721CDABE2076B08C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Despawn.uasset'
+[2024.03.03-06.57.11:752][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.03.03-06.57.11:782][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.03-06.57.11:803][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.03-06.57.11:874][179]AssetCheck: New page: Asset Save: FemaleMole_Despawn
+[2024.03.03-06.57.11:874][179]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Despawn.FemaleMole_Despawn
+[2024.03.03-06.57.23:076][  2]LogContentBrowser: Attempting asset rename: FemaleMole_Despawn_2 -> FemaleMole_Die
+[2024.03.03-06.57.23:124][  2]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.06ms
+[2024.03.03-06.57.23:124][  2]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_DieCC019CFF466E9B37423FFD8800263425.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Die.uasset'
+[2024.03.03-06.57.23:203][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.03.03-06.57.23:239][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.03.03-06.57.23:260][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.03-06.57.23:345][  2]AssetCheck: New page: Asset Save: FemaleMole_Die
+[2024.03.03-06.57.23:345][  2]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Die.FemaleMole_Die
+[2024.03.03-06.57.27:969][338]LogContentBrowser: Attempting asset rename: FemaleMole_Die -> FemaleMole_Die
+[2024.03.03-06.57.47:434][768]LogContentBrowser: Attempting asset rename: FemaleMole_Die_2 -> FemaleMole_ReadyGun
+[2024.03.03-06.57.47:486][768]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.34ms
+[2024.03.03-06.57.47:487][768]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_ReadyGunFA2A035542946BE611EAE49F8EDB2458.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_ReadyGun.uasset'
+[2024.03.03-06.57.47:564][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.03.03-06.57.47:599][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.03.03-06.57.47:624][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.03-06.57.47:701][768]AssetCheck: New page: Asset Save: FemaleMole_ReadyGun
+[2024.03.03-06.57.47:701][768]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_ReadyGun.FemaleMole_ReadyGun
+[2024.03.03-06.57.56:396][388]LogContentBrowser: Attempting asset rename: FemaleMole_ReadyGun_2 -> FemaleMole_PointGun
+[2024.03.03-06.57.56:443][388]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.11ms
+[2024.03.03-06.57.56:444][388]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_PointGunF7AA9E70420C4A2F8BEA79854EF40B16.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_PointGun.uasset'
+[2024.03.03-06.57.56:524][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.03.03-06.57.56:561][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.03.03-06.57.56:584][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.03-06.57.56:660][388]AssetCheck: New page: Asset Save: FemaleMole_PointGun
+[2024.03.03-06.57.56:660][388]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_PointGun.FemaleMole_PointGun
+[2024.03.03-06.58.00:480][663]LogContentBrowser: Attempting asset rename: FemaleMole_PointGun -> FemaleMole_PointGun
+[2024.03.03-06.58.09:760][347]LogContentBrowser: Attempting asset rename: FemaleMole_PointGun_2 -> FemaleMole_Shoot
+[2024.03.03-06.58.09:807][347]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.78ms
+[2024.03.03-06.58.09:808][347]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Shoot4F590A96418786CEB19F56ADDA788734.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Shoot.uasset'
+[2024.03.03-06.58.09:877][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.03.03-06.58.09:913][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.03.03-06.58.09:937][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-06.58.10:012][347]AssetCheck: New page: Asset Save: FemaleMole_Shoot
+[2024.03.03-06.58.10:012][347]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Shoot.FemaleMole_Shoot
+[2024.03.03-06.58.31:859][939]LogContentBrowser: Attempting asset rename: FemaleMole_Despawn_2 -> FemaleMole_Hurt
+[2024.03.03-06.58.31:913][939]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.54ms
+[2024.03.03-06.58.31:914][939]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Hurt7D695A684EE9E9A0B217A2A0038AC6F9.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Hurt.uasset'
+[2024.03.03-06.58.31:993][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.03.03-06.58.32:027][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-06.58.32:049][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.03-06.58.32:128][939]AssetCheck: New page: Asset Save: FemaleMole_Hurt
+[2024.03.03-06.58.32:129][939]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Hurt.FemaleMole_Hurt
+[2024.03.03-06.58.53:864][507]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> CloneMole_Spawn
+[2024.03.03-06.58.53:915][507]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.53ms
+[2024.03.03-06.58.53:916][507]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_SpawnD14AC44044F5C367A56E93BF748BBC9E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.uasset'
+[2024.03.03-06.58.53:993][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.03.03-06.58.54:028][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.03-06.58.54:049][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.58.54:118][507]AssetCheck: New page: Asset Save: CloneMole_Spawn
+[2024.03.03-06.58.54:118][507]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.CloneMole_Spawn
+[2024.03.03-06.59.07:800][542]LogContentBrowser: Attempting asset rename: CloneMole_Spawn_2 -> CloneMole_Despawn
+[2024.03.03-06.59.07:847][542]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.62ms
+[2024.03.03-06.59.07:848][542]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Despawn16435F1D4B97C0F1F907FFAC44D36E0B.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Despawn.uasset'
+[2024.03.03-06.59.07:928][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.03.03-06.59.07:965][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.03.03-06.59.07:985][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.03-06.59.08:067][542]AssetCheck: New page: Asset Save: CloneMole_Despawn
+[2024.03.03-06.59.08:067][542]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Despawn.CloneMole_Despawn
+[2024.03.03-06.59.11:650][801]Cmd: DUPLICATE
+[2024.03.03-06.59.11:650][801]Cmd: ACTOR DUPLICATE
+[2024.03.03-06.59.18:440][294]LogContentBrowser: Attempting asset rename: CloneMole_Despawn_2 -> CloneMole_Die
+[2024.03.03-06.59.18:489][294]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.23ms
+[2024.03.03-06.59.18:490][294]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_DieC561611C47DA4BED3D8325B0878D3244.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Die.uasset'
+[2024.03.03-06.59.18:566][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.03.03-06.59.18:600][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.03.03-06.59.18:622][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.03-06.59.18:706][294]AssetCheck: New page: Asset Save: CloneMole_Die
+[2024.03.03-06.59.18:706][294]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Die.CloneMole_Die
+[2024.03.03-06.59.25:068][739]LogContentBrowser: Attempting asset rename: CloneMole_Die_2 -> CloneMole_Hurt
+[2024.03.03-06.59.25:120][739]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.74ms
+[2024.03.03-06.59.25:121][739]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_HurtDCB1CB2C4A9571B4FB7BDF914580230A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Hurt.uasset'
+[2024.03.03-06.59.25:198][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.03.03-06.59.25:233][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-06.59.25:257][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-06.59.25:327][739]AssetCheck: New page: Asset Save: CloneMole_Hurt
+[2024.03.03-06.59.25:327][739]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Hurt.CloneMole_Hurt
+[2024.03.03-06.59.42:899][ 27]LogContentBrowser: Attempting asset rename: CloneMole_Hurt_2 -> CloneMole_ReadyGun
+[2024.03.03-06.59.42:950][ 27]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.62ms
+[2024.03.03-06.59.42:951][ 27]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_ReadyGun58021D7748715FBFBFE71FA7EDE6E9BC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_ReadyGun.uasset'
+[2024.03.03-06.59.43:030][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.03.03-06.59.43:062][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.03-06.59.43:082][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.03-06.59.43:153][ 27]AssetCheck: New page: Asset Save: CloneMole_ReadyGun
+[2024.03.03-06.59.43:153][ 27]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_ReadyGun.CloneMole_ReadyGun
+[2024.03.03-06.59.55:315][895]LogContentBrowser: Attempting asset rename: CloneMole_ReadyGun_2 -> CloneMole_PointGun
+[2024.03.03-06.59.55:370][895]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 7.37ms
+[2024.03.03-06.59.55:370][895]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_PointGunD3DA214345C7ACE587D9CC88727B8FE1.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_PointGun.uasset'
+[2024.03.03-06.59.55:445][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.03.03-06.59.55:478][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.03.03-06.59.55:500][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.03-06.59.55:577][895]AssetCheck: New page: Asset Save: CloneMole_PointGun
+[2024.03.03-06.59.55:578][895]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_PointGun.CloneMole_PointGun
+[2024.03.03-07.00.16:984][446]LogContentBrowser: Attempting asset rename: CloneMole_PointGun_2 -> CloneMole_Shoot
+[2024.03.03-07.00.17:036][446]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.95ms
+[2024.03.03-07.00.17:038][446]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Shoot90633CD44141A963E8B9C5B0C74E1603.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Shoot.uasset'
+[2024.03.03-07.00.17:113][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.03-07.00.17:147][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.03-07.00.17:170][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.03-07.00.17:272][446]AssetCheck: New page: Asset Save: CloneMole_Shoot
+[2024.03.03-07.00.17:272][446]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Shoot.CloneMole_Shoot
+[2024.03.03-07.00.40:933][148]LogContentBrowser: Attempting asset rename: CloneMole_Despawn_2 -> CloneMole_Idle
+[2024.03.03-07.00.40:984][148]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.31ms
+[2024.03.03-07.00.40:985][148]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Idle7B92081D4F375B21BDDD03B0D68818A4.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Idle.uasset'
+[2024.03.03-07.00.41:058][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.03.03-07.00.41:092][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-07.00.41:114][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-07.00.41:187][148]AssetCheck: New page: Asset Save: CloneMole_Idle
+[2024.03.03-07.00.41:188][148]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Idle.CloneMole_Idle
+[2024.03.03-07.01.12:398][380]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> CaptainMole_Spawn
+[2024.03.03-07.01.12:447][380]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.59ms
+[2024.03.03-07.01.12:448][380]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_SpawnB6C01AE24A08DD0C434B8D8A086F074C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.uasset'
+[2024.03.03-07.01.12:522][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.03.03-07.01.12:557][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-07.01.12:578][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-07.01.12:659][380]AssetCheck: New page: Asset Save: CaptainMole_Spawn
+[2024.03.03-07.01.12:659][380]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.CaptainMole_Spawn
+[2024.03.03-07.01.28:832][564]LogContentBrowser: Attempting asset rename: CaptainMole_Spawn_2 -> CaptainMole_Despawn
+[2024.03.03-07.01.28:884][564]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 7.07ms
+[2024.03.03-07.01.28:885][564]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DespawnEE7D57564326ACD7B8D012A244CC274E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Despawn.uasset'
+[2024.03.03-07.01.28:957][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.03.03-07.01.28:995][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.03-07.01.29:017][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-07.01.29:100][564]AssetCheck: New page: Asset Save: CaptainMole_Despawn
+[2024.03.03-07.01.29:100][564]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-07.01.37:339][159]LogContentBrowser: Attempting asset rename: CaptainMole_Despawn_2 -> CaptainMole_Idle
+[2024.03.03-07.01.37:390][159]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.33ms
+[2024.03.03-07.01.37:391][159]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Idle798FF41C42E45067F201CE93F7274079.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Idle.uasset'
+[2024.03.03-07.01.37:470][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.03.03-07.01.37:504][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.03-07.01.37:527][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-07.01.37:600][159]AssetCheck: New page: Asset Save: CaptainMole_Idle
+[2024.03.03-07.01.37:600][159]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Idle.CaptainMole_Idle
+[2024.03.03-07.01.47:593][893]LogContentBrowser: Attempting asset rename: CaptainMole_Idle_2 -> CaptainMole_Die
+[2024.03.03-07.01.47:645][893]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.64ms
+[2024.03.03-07.01.47:646][893]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DieA81A0A1849772A7101DAF89E35138267.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Die.uasset'
+[2024.03.03-07.01.47:729][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.03.03-07.01.47:763][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.03-07.01.47:788][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.03-07.01.47:877][893]AssetCheck: New page: Asset Save: CaptainMole_Die
+[2024.03.03-07.01.47:877][893]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Die.CaptainMole_Die
+[2024.03.03-07.01.55:852][463]LogContentBrowser: Attempting asset rename: CaptainMole_Die_2 -> CaptainMole_Hurt
+[2024.03.03-07.01.55:901][463]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.51ms
+[2024.03.03-07.01.55:902][463]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Hurt9023EAF947D9814D759987986508C0F6.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Hurt.uasset'
+[2024.03.03-07.01.55:971][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.03.03-07.01.56:005][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.03-07.01.56:028][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.03-07.01.56:113][463]AssetCheck: New page: Asset Save: CaptainMole_Hurt
+[2024.03.03-07.01.56:113][463]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Hurt.CaptainMole_Hurt
+[2024.03.03-07.02.05:602][139]LogContentBrowser: Attempting asset rename: CaptainMole_Hurt_2 -> CaptainMole_Whistle
+[2024.03.03-07.02.05:651][139]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.68ms
+[2024.03.03-07.02.05:651][139]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Whistle99FD1B5F499DAF8C225D21B2427443EC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Whistle.uasset'
+[2024.03.03-07.02.05:730][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.03.03-07.02.05:768][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.03.03-07.02.05:790][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-07.02.05:868][139]AssetCheck: New page: Asset Save: CaptainMole_Whistle
+[2024.03.03-07.02.05:868][139]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Whistle.CaptainMole_Whistle
+[2024.03.03-07.02.10:154][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.03.03-07.02.10:198][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-07.02.10:204][428]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.36ms
+[2024.03.03-07.02.10:210][428]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Setup9D7940D540D51476B81225B59C07D5B0.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Level/Setup.umap'
+[2024.03.03-07.02.10:223][428]LogFileHelpers: Saving map 'Setup' took 0.047
+[2024.03.03-07.02.10:224][428]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Spawn12FEF1FA44346CBEF02A7C8973178D61.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.uasset'
+[2024.03.03-07.02.10:227][428]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Spawn0B8615024072BD7FEA8A9C9856C46A5C.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.uasset'
+[2024.03.03-07.02.10:243][428]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-07.02.10:243][428]LogContentValidation: Display: Validating World /Game/Level/Setup.Setup
+[2024.03.03-07.02.10:243][428]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.CaptainMole_Spawn
+[2024.03.03-07.02.10:243][428]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.CloneMole_Spawn
+[2024.03.03-07.03.08:817][399]LogContentBrowser: Attempting asset rename: CaptainMole_Spawn_2 -> CaptainMole_Check
+[2024.03.03-07.03.08:867][399]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.67ms
+[2024.03.03-07.03.08:868][399]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_CheckB73E587C4F7B9934FD63F9AF5B158578.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Check.uasset'
+[2024.03.03-07.03.08:944][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.03-07.03.08:983][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.03.03-07.03.09:006][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.03-07.03.09:083][399]AssetCheck: New page: Asset Save: CaptainMole_Check
+[2024.03.03-07.03.09:083][399]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Check.CaptainMole_Check
+[2024.03.03-07.03.33:090][866]LogContentBrowser: Attempting asset rename: CaptainMole_Check_2 -> CaptainMole_DespawnFromCheck
+[2024.03.03-07.03.33:142][866]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.46ms
+[2024.03.03-07.03.33:142][866]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DespawnFromCheckC30F67FD46824316D19D9BAE81FFF525.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_DespawnFromCheck.uasset'
+[2024.03.03-07.03.33:218][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.03.03-07.03.33:253][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.03.03-07.03.33:278][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.03-07.03.33:377][866]AssetCheck: New page: Asset Save: CaptainMole_DespawnFromCheck
+[2024.03.03-07.03.33:377][866]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_DespawnFromCheck.CaptainMole_DespawnFromCheck
+[2024.03.03-07.03.49:697][832]LogContentBrowser: Attempting asset rename: CaptainMole_DespawnFromCheck_2 -> CaptainMole_Popup
+[2024.03.03-07.03.49:746][832]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.74ms
+[2024.03.03-07.03.49:747][832]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Popup1A91C6F84F479F6F570B44974D4AEF9F.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Popup.uasset'
+[2024.03.03-07.03.49:824][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.03.03-07.03.49:856][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.03.03-07.03.49:878][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-07.03.49:956][832]AssetCheck: New page: Asset Save: CaptainMole_Popup
+[2024.03.03-07.03.49:956][832]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Popup.CaptainMole_Popup
+[2024.03.03-07.03.58:443][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.03.03-07.05.16:870][103]LogContentBrowser: Attempting asset rename: BomberMole_Throw_2 -> BomberMole_1stPhase
+[2024.03.03-07.05.16:923][103]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 6.63ms
+[2024.03.03-07.05.16:924][103]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_1stPhaseA9164468495BA4A2A7BE7A8AD9F7ACFF.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_1stPhase.uasset'
+[2024.03.03-07.05.17:006][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.03-07.05.17:043][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.03.03-07.05.17:067][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.03-07.05.17:146][103]AssetCheck: New page: Asset Save: BomberMole_1stPhase
+[2024.03.03-07.05.17:146][103]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_1stPhase.BomberMole_1stPhase
+[2024.03.03-07.05.26:614][802]LogContentBrowser: Attempting asset rename: BomberMole_1stPhase_2 -> BomberMole_2ndPhase
+[2024.03.03-07.05.26:659][802]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.34ms
+[2024.03.03-07.05.26:660][802]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_2ndPhase20FEFCF7420B777DBBBD989096084808.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_2ndPhase.uasset'
+[2024.03.03-07.05.26:730][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.03.03-07.05.26:765][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.03.03-07.05.26:786][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.03-07.05.26:854][802]AssetCheck: New page: Asset Save: BomberMole_2ndPhase
+[2024.03.03-07.05.26:854][802]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_2ndPhase.BomberMole_2ndPhase
+[2024.03.03-07.05.35:805][448]LogContentBrowser: Attempting asset rename: BomberMole_2ndPhase_2 -> BomberMole_3rdPhase
+[2024.03.03-07.05.35:852][448]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.79ms
+[2024.03.03-07.05.35:853][448]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_3rdPhase17CD511B4695B6D9D321C3A533FE82E5.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_3rdPhase.uasset'
+[2024.03.03-07.05.35:935][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.03.03-07.05.35:970][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.03-07.05.35:990][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.03-07.05.36:063][448]AssetCheck: New page: Asset Save: BomberMole_3rdPhase
+[2024.03.03-07.05.36:063][448]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_3rdPhase.BomberMole_3rdPhase
+[2024.03.03-07.06.02:875][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.03.03-07.06.02:909][363]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 7.52ms
+[2024.03.03-07.06.02:910][363]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_1stPhase05F46D794CEF2FC1137C3393CF5E9A23.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_1stPhase.uasset'
+[2024.03.03-07.06.02:913][363]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_2ndPhase9443CA02488EAE72381A39951B0C94F8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_2ndPhase.uasset'
+[2024.03.03-07.06.02:915][363]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/BomberMole_3rdPhaseCC53090844DB4EE4559B6DACAC693002.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/BomberMole_3rdPhase.uasset'
+[2024.03.03-07.06.02:939][363]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-07.06.02:939][363]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_2ndPhase.BomberMole_2ndPhase
+[2024.03.03-07.06.02:939][363]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_3rdPhase.BomberMole_3rdPhase
+[2024.03.03-07.06.02:939][363]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/BomberMole_1stPhase.BomberMole_1stPhase
+[2024.03.03-07.08.08:694][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.03-07.08.08:723][741]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.89ms
+[2024.03.03-07.08.08:724][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_SpawnD82D8D584C9AD318CD868780FAA14F9A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.uasset'
+[2024.03.03-07.08.08:727][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DespawnD3D5CF534141870F84D57BB0AFA5FE5A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Despawn.uasset'
+[2024.03.03-07.08.08:728][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Idle2ABF06C34B0491CF959167931AEE8EE4.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Idle.uasset'
+[2024.03.03-07.08.08:730][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Die661CF9644FC85D5320FBC0B72206C16D.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Die.uasset'
+[2024.03.03-07.08.08:732][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Hurt31CF74484B227C9E9C76E099BB97B6EA.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Hurt.uasset'
+[2024.03.03-07.08.08:734][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Whistle272520AF4555E597001705A0C480F1CC.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Whistle.uasset'
+[2024.03.03-07.08.08:736][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_Check24C90E514434B2C0C1ADA6AD4BC786AD.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Check.uasset'
+[2024.03.03-07.08.08:738][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_DespawnFromCheck308740FA4DD1EDDF30EDE3B5192CE104.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_DespawnFromCheck.uasset'
+[2024.03.03-07.08.08:740][741]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CaptainMole_PopupE892C0B24C167EBDAD73319D1F4358F9.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CaptainMole_Popup.uasset'
+[2024.03.03-07.08.08:756][741]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-07.08.08:756][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_DespawnFromCheck.CaptainMole_DespawnFromCheck
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Popup.CaptainMole_Popup
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Check.CaptainMole_Check
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Whistle.CaptainMole_Whistle
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Hurt.CaptainMole_Hurt
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Die.CaptainMole_Die
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Idle.CaptainMole_Idle
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Spawn.CaptainMole_Spawn
+[2024.03.03-07.08.08:757][741]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CaptainMole_Despawn.CaptainMole_Despawn
+[2024.03.03-07.09.15:761][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.03-07.09.15:789][635]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 5.22ms
+[2024.03.03-07.09.15:790][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_SpawnD835CDCA46E86E4FE58DA7A512975927.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.uasset'
+[2024.03.03-07.09.15:791][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Despawn1BE036D5400667C39BAFC9AAB0D5C4B0.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Despawn.uasset'
+[2024.03.03-07.09.15:794][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Die324EA0F543B3AD7BAB74D98103E275CA.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Die.uasset'
+[2024.03.03-07.09.15:796][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Hurt0E7101764D949F35AB8D9198E015E0A3.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Hurt.uasset'
+[2024.03.03-07.09.15:798][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_ReadyGun7FB5BBCA4BA5114E72694C8273953465.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_ReadyGun.uasset'
+[2024.03.03-07.09.15:800][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_PointGun8CE2909B4607DB0BE8B678A293B4B127.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_PointGun.uasset'
+[2024.03.03-07.09.15:803][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_ShootA32C791147D8AE34F89B5C97E45BB61A.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Shoot.uasset'
+[2024.03.03-07.09.15:804][635]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/CloneMole_Idle575F26704F3EA833E69DCBA7C72D30B1.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/CloneMole_Idle.uasset'
+[2024.03.03-07.09.15:820][635]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-07.09.15:820][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_ReadyGun.CloneMole_ReadyGun
+[2024.03.03-07.09.15:820][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Die.CloneMole_Die
+[2024.03.03-07.09.15:820][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Idle.CloneMole_Idle
+[2024.03.03-07.09.15:820][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Shoot.CloneMole_Shoot
+[2024.03.03-07.09.15:821][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_PointGun.CloneMole_PointGun
+[2024.03.03-07.09.15:821][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Hurt.CloneMole_Hurt
+[2024.03.03-07.09.15:821][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Spawn.CloneMole_Spawn
+[2024.03.03-07.09.15:821][635]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/CloneMole_Despawn.CloneMole_Despawn
+[2024.03.03-07.10.26:776][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-07.10.26:805][ 50]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.81ms
+[2024.03.03-07.10.26:805][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_SpawnBB3CA56A4E9E12E656333B89BA85CB17.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Spawn.uasset'
+[2024.03.03-07.10.26:808][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Idle863E96214D04E2DB52EDBFB5B6F3285E.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Idle.uasset'
+[2024.03.03-07.10.26:810][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_DespawnD45DB4054957F472C2EC21A6A8FCAF88.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Despawn.uasset'
+[2024.03.03-07.10.26:812][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_DieB4F322AB4802EA4A653EF182B4D50F18.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Die.uasset'
+[2024.03.03-07.10.26:813][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_ReadyGunE5021B59448172F19E352C854B1DC932.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_ReadyGun.uasset'
+[2024.03.03-07.10.26:815][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_PointGun4DDE3DF64DEA66D5747ADFBE14B96EE8.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_PointGun.uasset'
+[2024.03.03-07.10.26:817][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Shoot1A7A9FC645EBF6A4201193B82337DBBD.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Shoot.uasset'
+[2024.03.03-07.10.26:819][ 50]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/FemaleMole_Hurt18BF173B49210F22516203B1B4C57B97.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/FemaleMole_Hurt.uasset'
+[2024.03.03-07.10.26:835][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Despawn.FemaleMole_Despawn
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Hurt.FemaleMole_Hurt
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Shoot.FemaleMole_Shoot
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_PointGun.FemaleMole_PointGun
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_ReadyGun.FemaleMole_ReadyGun
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Idle.FemaleMole_Idle
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Spawn.FemaleMole_Spawn
+[2024.03.03-07.10.26:835][ 50]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/FemaleMole_Die.FemaleMole_Die
+[2024.03.03-07.10.52:526][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.03.03-07.10.52:552][120]LogBlueprintAssist: Saved cache to C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Marketplace/BlueprintAssist/NodeSizeCache/BB43883D49E2763C5836B49B6F365616.json took 4.86ms
+[2024.03.03-07.10.52:554][120]LogSavePackage: Moving '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Saved/Mole_Despawn0017BC4D43D1986F8473E78C7137D760.tmp' to '../../../../../../Users/Long/OneDrive/Desktop/UnrealProject/Unreal Engine 4/Crit_A_Mole/Content/Blueprint/Enemy/AnimSequences/Mole_Despawn.uasset'
+[2024.03.03-07.10.52:569][120]AssetCheck: New page: Asset Save: Mole_Despawn
+[2024.03.03-07.10.52:569][120]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Blueprint/Enemy/AnimSequences/Mole_Despawn.Mole_Despawn
